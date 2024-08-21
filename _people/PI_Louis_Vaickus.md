@@ -7,7 +7,7 @@ profile:
   image: lvaickus.jpg
 news: false
 social: false
-type: "Collaborators"
+type: "Principal Investigator"
 lab_type: "Current"
 description: Collaborator & Co-Head EDIT ML Lab
 ---

@@ -116,7 +116,7 @@ lab_types: ["Current","Previous"]
     
     <div class="year-section mb-12">
       <!-- Year Title -->
-      <h2 class="text-2xl font-bold text-center my-8">Summer Intern {{ year }}</h2>
+      <h2 class="text-2xl font-bold text-center my-8">Summer Interns {{ year }}</h2>
 
       <!-- Profiles Grid -->
       <ul role="list" class="h-auto mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-5xl lg:gap-x-8 lg:gap-y-12 xl:grid-cols-6">

@@ -59,7 +59,7 @@ social: false  # includes social icons at the bottom of the page
       <br/>
       <br/>
       <figure class="text-center">
-        <img class="w-full rounded-lg" src="assets/img/dartmouth.jpeg" alt="">
+        <img class="w-full rounded-lg" src="assets/img/Dartmouthcampus.jpg" alt="">
         <br/>
         <figcaption>
           <a href="https://www.google.com/maps?q=481RO2+Borwell+4th+Floor+1+Medical+Center+Drive+Lebanon,+NH+03755">

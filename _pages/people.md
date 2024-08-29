@@ -28,17 +28,17 @@ lab_types: ["Current","Previous"]
         {% for person in sorted_people %}
           {% if person.img %}
             <div class="flex flex-col items-center max-w-xs">
-              <div class="w-24 h-24 flex justify-center items-center">
+              <div class="w-40 h-40 flex justify-center items-center"> <!-- Updated size classes -->
                 {% if person.img=="placeholder" %}
-                  <img class="object-cover shadow-lg rounded-full w-full h-full" src="/assets/img/blank_profile.png" alt="">
+                  <img class="object-cover shadow-lg rounded-lg w-full h-full" src="/assets/img/blank_profile.png" alt="">
                 {% else %}
-                  <img class="object-cover shadow-lg rounded-full w-full h-full" src="{{ person.img | prepend: site.baseurl | prepend: site.url }}" alt="">
+                  <img class="object-cover shadow-lg rounded-lg w-full h-full" src="{{ person.img | prepend: site.baseurl | prepend: site.url }}" alt="">
                 {% endif %}
               </div>
               <div class="text-center mt-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>{{ person.title }}</h3>
-                  <p class="text-indigo-600">{{ person.description }}</p>
+                  <p class="text-indigo-600">{{ person.description_update }}{{ "," if person.description_update else "" }}{{ person.description }}</p>
                   <a href="{{ person.url | prepend: site.baseurl | prepend: site.url }}" class="text-gray-400 hover:text-gray-500">
                     Profile
                   </a>
@@ -52,6 +52,7 @@ lab_types: ["Current","Previous"]
     </div>
   </div>
 </div>
+
 
 <!-- EDIT Program PhD Student Mentors -->
 <div class="bg-white">

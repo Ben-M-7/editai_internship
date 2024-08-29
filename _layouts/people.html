@@ -47,6 +47,11 @@ layout: page
         </div>
         <div class="mt-8 lg:mt-0">
           <div class="text-base max-w-prose mx-auto lg:max-w-none">
+            <!-- Display both descriptions -->
+            <p class="text-lg text-gray-500">{{ page.description }}</p>
+            {% if page.description_update %}
+              <p class="text-lg text-gray-500">{{ page.description_update }}</p>
+            {% endif %}
             <p class="text-lg text-gray-500">{{ content }}</p>
           </div>
         </div>

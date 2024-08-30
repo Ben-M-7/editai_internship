@@ -11,6 +11,7 @@ lab_types: ["Current","Previous"]
 <!-- Tailwind CSS -->
 <script src="https://cdn.tailwindcss.com/3.0.0"></script>
 
+
 <!-- PI -->
 <div class="bg-white">
   <div class="max-w-7xl mx-auto py-12 px-4 text-center sm:px-6 lg:px-8 lg:py-24">
@@ -20,38 +21,43 @@ lab_types: ["Current","Previous"]
         <p class="text-xl text-gray-500">Teaching the next generation responsible AI and biomed practice</p>
       </div>
 
-      <!-- Container for the people items, adjusted to flex layout -->
-      <div class="flex flex-wrap justify-center gap-6">
-        {% assign members = site.people | where:"type","Principal Investigator" %}
-        {% assign sorted_people = members | sort:"lab_type" %}
+  <!-- Container for the people items, adjusted to flex layout -->
+<div class="flex flex-wrap justify-center gap-6">
+  {% assign members = site.people | where:"type","Principal Investigator" %}
+  {% assign sorted_people = members | sort:"lab_type" %}
 
-        {% for person in sorted_people %}
-          {% if person.img %}
-            <div class="flex flex-col items-center max-w-xs">
-              <div class="w-40 h-40 flex justify-center items-center"> <!-- Updated size classes -->
-                {% if person.img=="placeholder" %}
-                  <img class="object-cover shadow-lg rounded-lg w-full h-full" src="/assets/img/blank_profile.png" alt="">
-                {% else %}
-                  <img class="object-cover shadow-lg rounded-lg w-full h-full" src="{{ person.img | prepend: site.baseurl | prepend: site.url }}" alt="">
-                {% endif %}
-              </div>
-              <div class="text-center mt-4">
-                <div class="text-lg leading-6 font-medium space-y-1">
-                  <h3>{{ person.title }}</h3>
-                  <p class="text-indigo-600">{{ person.description_update }}{{ "," if person.description_update else "" }}{{ person.description }}</p>
-                  <a href="{{ person.url | prepend: site.baseurl | prepend: site.url }}" class="text-gray-400 hover:text-gray-500">
-                    Profile
-                  </a>
-                </div>
-              </div>
-            </div>
-          {% endif %}
-        {% endfor %}
-        <!-- More people... -->
+  {% for person in sorted_people %}
+    {% if person.img %}
+      <div class="flex flex-col items-center max-w-xs">
+        <div class="w-40 h-40 flex justify-center items-center"> 
+          <!-- Updated size classes -->
+          <a href="{{ person.redirect_url }}" target="_blank" rel="noopener noreferrer">
+            {% if person.img=="placeholder" %}
+              <img class="object-cover shadow-lg rounded-lg w-full h-full" src="/assets/img/blank_profile.png" alt="">
+            {% else %}
+              <img class="object-cover shadow-lg rounded-lg w-full h-full" src="{{ person.img | prepend: site.baseurl | prepend: site.url }}" alt="">
+            {% endif %}
+          </a>
+        </div>
+        <div class="text-center mt-4">
+          <div class="text-lg leading-6 font-medium space-y-1">
+            <h3>{{ person.title }}</h3>
+            <p class="text-indigo-600">{{ person.description }}</p>
+            <a href="{{ person.redirect_url }}" class="text-gray-400 hover:text-gray-500" target="_blank" rel="noopener noreferrer">
+              Profile
+            </a>
+          </div>
+        </div>
       </div>
+    {% endif %}
+  {% endfor %}
+  <!-- More people... -->
+</div>
+
     </div>
   </div>
 </div>
+
 
 
 <!-- EDIT Program PhD Student Mentors -->

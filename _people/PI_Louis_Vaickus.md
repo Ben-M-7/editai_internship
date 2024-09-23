@@ -2,6 +2,7 @@
 layout: people
 title: Louis Vaickus
 img: /assets/img/lvaickus_thumbnail.jpeg
+redirect_url: "https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=6618"
 profile:
   align: right
   image: lvaickus.jpg

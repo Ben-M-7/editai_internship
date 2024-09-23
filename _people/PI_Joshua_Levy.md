@@ -10,7 +10,7 @@ social: false
 type: "Principal Investigator"
 lab_type: "Current"
 description: Levy Lab Director & Co-Director of EDIT Machine Learning Group
-redirect_url:
+redirect_url: "https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=7988"
 ---
 [Curriculum Vitae](/levylab/assets/pdf/levy_cv_geisel_latest.pdf)
 

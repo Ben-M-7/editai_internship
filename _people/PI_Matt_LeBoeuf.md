@@ -2,6 +2,7 @@
 layout: people
 title: Matthew LeBoeuf
 img: /assets/img/matt_thumbnail.jpeg
+redirect_url: "https://providers.dartmouth-health.org/654/matthew-r-leboeuf/"
 profile:
   align: right
   image: matt.jpeg

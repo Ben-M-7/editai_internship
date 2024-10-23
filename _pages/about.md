@@ -71,9 +71,10 @@ social: false  # includes social icons at the bottom of the page
       </h4>
       <br/>
       <p>
-        Through a series of lectures, guided projects, and IRB supported basic research, Program members develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction. Students are placed into teams to design and pitch projects and adhere to a team culture which promotes broad collaboration. Dr. Levy meets weekly with lab project teams to discuss updates and provide guidance on the technical aspects of their projects (including presentation/manuscript preparation), while providing tutorials (e.g., overview of operating in an HPC environment), a lab GitHub based wiki page, and over the summer a weekly seminar series <a href="https://jlevy44.github.io/EDIT_AI_virtual_conference_23/presenters.html">Seminar series</a> to help them better understand emerging themes in the field. Dr. Levy also holds weekly office hours for general inquiries. Students in the EDIT ML lab have access to vast compute resources:
-
-<br/>
+        Through a series of lectures, guided projects, and IRB supported basic research, Program members develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction. Students are placed into teams to design and pitch projects and adhere to a team culture which promotes broad collaboration. Dr. Levy meets weekly with lab project teams to discuss updates and provide guidance on the technical aspects of their projects (including presentation/manuscript preparation), while providing tutorials (e.g., overview of operating in an HPC environment), a lab GitHub based wiki page, and over the summer a weekly seminar series <a href="https://jlevy44.github.io/EDIT_AI_virtual_conference_23/presenters.html">Seminar series</a> to help them better understand emerging themes in the field. Dr. Levy also holds weekly office hours for general inquiries. Students in the EDIT ML lab have access to vast compute resources: 
+        </p>
+<p>
+<br>
 <ol style="list-style: decimal;">
   <li><strong>QDP-Alpha HPC</strong> resource for research applications, a computational node system comprising:
     <ul style="list-style: disc;">
@@ -83,7 +84,6 @@ social: false  # includes social icons at the bottom of the page
       <li>150TB of storage</li>
     </ul>
   </li>
-  <br/>
 
 <br/>
   <li><strong>Pathology Local Cluster (PLC)</strong>, a modular HPC system for mature clinical applications comprising a<strong> genome analysis node</strong>:

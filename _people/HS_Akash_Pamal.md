@@ -9,7 +9,8 @@ news: false
 social: false
 type: "High School Summer"
 lab_type: "Current"
-description: EDIT ML Mentor 2022, Summer Intern 2021
+description: Summer Intern 2021
+description_update: EDIT ML Mentor 2022
 ---
 
 **School:** Thomas Jefferson High School for Science and Technology

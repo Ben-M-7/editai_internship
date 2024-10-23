@@ -49,7 +49,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
       <p>
-        Welcome to the Emerging Diagnostic and Investigative Technologies (EDIT) program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy (<a href="/levylab/">Levy Lab</a>) serves as Co-Head of the EDIT Machine Learning (ML) Group. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
+        Welcome to the Emerging Diagnostic and Investigative Technologies <a href="https://www.dartmouth-hitchcock.org/pathology/research#:~:text=The%20E.D.I.T.%20(Emerging%20Diagnostic%20and%20Investigative%20Technologies)%20Program">EDIT</a> program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy <a href="https://jlevy44.github.io/levylab/">Levy Lab</a> serves as Co-Head of the EDIT Machine Learning (ML) Group. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
       </p>
 
       <br/>
@@ -62,11 +62,7 @@ social: false  # includes social icons at the bottom of the page
         <img class="w-full rounded-lg" src="assets/img/Dartmouthcampus.jpg" alt="">
         <br/>
         <figcaption>
-          <a href="https://www.google.com/maps?q=481RO2+Borwell+4th+Floor+1+Medical+Center+Drive+Lebanon,+NH+03755">
-          481RO2 Borwell 4th Floor
-          1 Medical Center Drive
-          Lebanon, NH 03755
-          </a>
+          Dartmouth College Campus
         </figcaption>
         <br/>
       </figure>
@@ -75,13 +71,51 @@ social: false  # includes social icons at the bottom of the page
       </h4>
       <br/>
       <p>
-        Through a series of lectures, guided projects, and IRB supported basic research, Program members develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction. Students are placed into teams to design and pitch projects and adhere to a team culture which promotes broad collaboration. Dr. Levy meets weekly with lab project teams to discuss updates and provide guidance on the technical aspects of their projects (including presentation/manuscript preparation), while providing tutorials (e.g., overview of operating in an HPC environment), a lab GitHub based wiki page, and over the summer a weekly seminar series <a href="https://jlevy44.github.io/EDIT_AI_virtual_conference_23/presenters.html">Seminar series</a> to help them better understand emerging themes in the field. Dr. Levy also holds weekly office hours for general inquiries. Students in the EDIT ML lab have access to vast compute resources: 1) QDP-Alpha HPC resource for research applications, a computational node system comprising: 400 CPU cores, 416GB of GPU memory, 1.5TB of RAM and 150TB or storage, 2) Pathology Local Cluster (PLC) a modular HPC system for mature clinical applications comprising a Genome analysis node (128 CPU cores, 768GB RAM, 12GB GPU memory, 100TB storage), and a Machine learning node (40 CPU cores, 128GB GPU memory, 512GB RAM, 100TB storage), and 3) Personal computing equipment, including access to surface tablets to study histology slides and a local computing workstation for rapid algorithm prototyping.
+        Through a series of lectures, guided projects, and IRB supported basic research, Program members develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction. Students are placed into teams to design and pitch projects and adhere to a team culture which promotes broad collaboration. Dr. Levy meets weekly with lab project teams to discuss updates and provide guidance on the technical aspects of their projects (including presentation/manuscript preparation), while providing tutorials (e.g., overview of operating in an HPC environment), a lab GitHub based wiki page, and over the summer a weekly seminar series <a href="https://jlevy44.github.io/EDIT_AI_virtual_conference_23/presenters.html">Seminar series</a> to help them better understand emerging themes in the field. Dr. Levy also holds weekly office hours for general inquiries. Students in the EDIT ML lab have access to vast compute resources:
+
+<br/>
+<ol style="list-style: decimal;">
+  <li><strong>QDP-Alpha HPC</strong> resource for research applications, a computational node system comprising:
+    <ul style="list-style: disc;">
+      <li>400 CPU cores</li>
+      <li>416GB of GPU memory</li>
+      <li>1.5TB of RAM</li>
+      <li>150TB of storage</li>
+    </ul>
+  </li>
+  <br/>
+
+<br/>
+  <li><strong>Pathology Local Cluster (PLC)</strong>, a modular HPC system for mature clinical applications comprising a<strong> genome analysis node</strong>:
+    <ul style="list-style: disc;">
+          <li>128 CPU cores</li>
+          <li>768GB RAM</li>
+          <li>12GB GPU memory</li>
+          <li>100TB storage</li>
+        </ul>
+        <br>
+      <strong>And a machine learning node:</strong>
+        <ul style="list-style: disc;">
+          <li>40 CPU cores</li>
+          <li>128GB GPU memory</li>
+          <li>512GB RAM</li>
+          <li>100TB storage</li>
+        </ul>
+      </li>
+        
+<br>
+  <li><strong>Personal computing equipment</strong>, including access to surface tablets to study histology slides and a local computing workstation for rapid algorithm prototyping.</li>
+</ol>
+
+
+
       </p>
       <br/>
       <h4>
         <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Interdisciplinary Mindset</span>
       </h4>
       <br/>
+
       <p>
         Since the EDIT Program is fully embedded within the clinical departments of Pathology and Dermatology at Dartmouth Hitchcock Medical Center, members are challenged to think critically about the successful design of clinically impactful technologies. As part of the summer research internship program, students are asked to present their research in front of medical faculty, residents and technical staff. Students are encouraged to communicate how their work will directly address “big picture” issues in Pathology versus highlighting the computational aspects, which are important but of less relevance for the target audience. We hope these experiences will continue to shape how students engage project stakeholders both during and after their time at Dartmouth.
       </p>
@@ -96,17 +130,7 @@ social: false  # includes social icons at the bottom of the page
     <div class=" h-auto grid grid-cols-1 gap-4 sm:grid-cols-2">
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Emerging Diagnostic and Investigative Technologies, Department of Pathology and Laboratory Medicine, Dartmouth Hitchcock Medical Center</p>
-            <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
-          </a>
-        </div>
-      </div>
-
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
+          <a href="https://www.dartmouth-hitchcock.org/dermatology" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">Department of Dermatology, Dartmouth Hitchcock Medical Center</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
@@ -116,7 +140,7 @@ social: false  # includes social icons at the bottom of the page
 
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
+          <a href="https://geiselmed.dartmouth.edu/epidemiology/" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">Department of Epidemiology, Geisel School of Medicine at Dartmouth</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
@@ -126,7 +150,7 @@ social: false  # includes social icons at the bottom of the page
 
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
+          <a href="https://geiselmed.dartmouth.edu/qbs/" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
@@ -136,7 +160,7 @@ social: false  # includes social icons at the bottom of the page
 
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
+          <a href="https://cancer.dartmouth.edu/scientists-researchers/cancer-population-sciences" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">NCCC Cancer Population Sciences Member, Dartmouth Cancer Center</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
@@ -146,25 +170,13 @@ social: false  # includes social icons at the bottom of the page
 
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
+          <a href="https://cancer.dartmouth.edu/scientists-researchers/biostatistics-bioinformatics-shared-resource" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">Biostatistics and Bioinformatics Shared Resource Faculty, Dartmouth Cancer Center</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
           </a>
         </div>
       </div>
-
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="#" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Statistical Consultant, Veterans Affairs</p>
-            <p class="text-sm text-gray-500 truncate">White River Junction, Vermont, USA</p>
-          </a>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
 

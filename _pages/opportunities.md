@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /opportunities/
-title: opportunities
-description:
-nav: true
+title: Opportunities
+description: (Applications)
+nav: false
 ---
 [Apply for Positions Here!](#applications)
 ## EDIT ML High School Summer Internship Program
+
+<br>
 <p align="center">
-    <img src="/levylab/assets/img/edit_ml_website.jpg" width="90%">
+    <img src="/assets/img/edit_thumbnail.png" width="40%">
 </p>
+<br>
+
 The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medical Center (Emerging Diagnostic and Investigative Technologies; EDIT) Machine Learning program has been developing, validating, and scaling artificial intelligence technologies that aim to improve clinical efficiency and patient outcomes. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, graphs, electronic health records, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications). Through a series of lectures/seminars, guided projects, and IRB supported basic research, interns develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction, amongst many others. We are looking for summer interns / undergraduate researchers with a background in CS, a basic familiarity/exposure in deep learning / machine learning pipelines, and an enthusiasm for doing public good through high-throughput computation. Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/levylab/projects/).  
 
 If you are interested in this opportunity, please fill out an internship application form here: [Application](https://jlevy44.github.io/levylab/opportunities/#applications) or share a CV/Cover Letter with Joshua Levy or Louis Vaickus using the emails below.
@@ -101,9 +105,9 @@ This opportunity is open to PhD and Master's degree students, with special excep
 ## EDIT ML Summer Program Flyers
 <div class="row">
   <div class="column">
-    <img src="/levylab/assets/img/22_student_summer.jpg" width="100%">
+    <img src="/assets/img/22_student_summer.jpg" width="100%">
   </div>
   <div class="column">
-    <img src="/levylab/assets/img/22_general_summer.jpg" width="100%">
+    <img src="/assets/img/22_general_summer.jpg" width="100%">
   </div>
 </div>

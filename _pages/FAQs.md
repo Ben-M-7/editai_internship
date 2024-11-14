@@ -9,7 +9,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 # Frequently Asked Questions
 
-Welcome to our FAQ page! Below are some of the most commonly asked questions. Click on each section to find the answers you're looking for. If you still have questions, please feel free to reach out through our [contact page](/contact/).
+Welcome to our FAQ page! Below are some of the most commonly asked questions. Click on each section to find the answers you're looking for. If you still have questions, please feel free to reach out through email.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Thadryan Sweeney
-img: placeholder
+img: /assets/img/blank_profile.png
 profile:
   align: right
-  image:
+  image: /assets/img/blank_profile.png
 news: false
 social: false
 type: "PhD Students"

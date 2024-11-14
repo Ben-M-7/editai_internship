@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Omolara Dawson
-img: /assets/img/Omolara_Dawson
+img: /assets/img/blank_profile.png
 profile:
   align: right
-  image: Omolara_Dawson
+  image: /assets/img/blank_profile.png
 news: false
 social: false
 type: "High School Summer"

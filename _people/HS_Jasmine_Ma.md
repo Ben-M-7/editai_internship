@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Jasmine Ma
-img: /assets/img/Jasmine_Ma.heic
+img: /assets/img/Jasmine_Ma.jpeg
 profile:
   align: right
-  image: Jasmine_Ma.heic
+  image: Jasmine_Ma.jpeg
 news: false
 social: false
 type: "High School Summer"

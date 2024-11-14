@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Afya Shaikh
-img: /assets/img/Afya_Shaikh
+img: /assets/img/blank_profile.png
 profile:
   align: right
-  image: Afya_Shaikh
+  image: /assets/img/blank_profile.png
 news: false
 social: false
 type: "High School Summer"

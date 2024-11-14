@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Aadi Duggal
-img: /assets/img/Aadi_Duggal.heic
+img: /assets/img/Aadi_Duggal.jpeg
 profile:
   align: right
-  image: Aadi_Duggal.heic
+  image: Aadi_Duggal.jpeg
 news: false
 social: false
 type: "High School Summer"

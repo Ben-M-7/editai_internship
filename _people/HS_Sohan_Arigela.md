@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Sohan Arigela
-img: /assets/img/Sohan_Arigela.HEIC
+img: /assets/img/Sohan_Arigela.jpeg
 profile:
   align: right
-  image: Sohan_Arigela.HEIC
+  image: Sohan_Arigela.jpeg
 news: false
 social: false
 type: "High School Summer"

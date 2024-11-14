@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Sanjay Jacob
-img: placeholder
+img: /assets/img/blank_profile.png
 profile:
   align: right
   image:

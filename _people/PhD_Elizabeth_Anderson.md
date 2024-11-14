@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Elizabeth Anderson
-img: placeholder
+img: /assets/img/blank_profile.png
 profile:
   align: right
-  image:
+  image: default
 news: false
 social: false
 type: "PhD Students"

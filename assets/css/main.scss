@@ -17,3 +17,21 @@ $max-content-width: {{ site.max_width }};
   "links";
 
 ;
+
+///This is for Conferences page
+
+.flex-container {
+  display: flex;
+  gap: 10px; /* Space between the image and video */
+}
+
+.flex-container img {
+  width: 50%; /* Adjust the width as needed */
+  height: auto;
+}
+
+.flex-container iframe {
+  width: 50%; /* Adjust the width as needed */
+  height: auto;
+  aspect-ratio: 16 / 9; /* Maintain a 16:9 ratio for the video */
+}

@@ -104,10 +104,10 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
   software:
-    output: true
+    output: false
     permalink: /software/:path/
   people:
     output: true

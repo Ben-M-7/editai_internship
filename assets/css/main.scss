@@ -35,3 +35,97 @@ $max-content-width: {{ site.max_width }};
   height: auto;
   aspect-ratio: 16 / 9; /* Maintain a 16:9 ratio for the video */
 }
+
+///This is for seminars
+
+/* Dropdown Menu */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.dropbtn {
+  background-color: #00664F; /* Evergreen */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.dropbtn:hover {
+  background-color: #004b28; /* Spruce */
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: #004b28; /* Spruce */
+  padding: 10px 16px;
+  text-decoration: none;
+  display: block;
+  border-bottom: 1px solid #ddd;
+}
+
+.dropdown-content a:hover {
+  background-color: #e5f3ee; /* Light Juniper background */
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+}
+
+table th, table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background-color: #00664F; /* Evergreen */
+  color: white;
+}
+
+table tr:nth-child(even) {
+  background-color: #e5f3ee; /* Light Juniper */
+}
+
+table tr:hover {
+  background-color: #b7d9cc; /* Soft Juniper */
+}
+
+/* Section Headings */
+a[id] {
+  text-decoration: none;
+  color: #004b28; /* Spruce */
+  font-size: 24px;
+}
+
+a[id]:hover {
+  color: #007a33; /* Evergreen */
+}
+
+h2 {
+  border-bottom: 2px solid #007a33; /* Evergreen */
+  padding-bottom: 5px;
+  margin-top: 40px;
+}

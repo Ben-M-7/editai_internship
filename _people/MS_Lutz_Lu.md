@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Lutz Lu
-img: /assets/img/lutz_thumbnail.jpg
+img: /assets/img/lutz.jpg
 profile:
   align: right
   image: lutz.jpeg

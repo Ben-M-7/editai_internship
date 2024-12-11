@@ -4,14 +4,15 @@ title: Program Outcomes
 permalink: /outcomes/
 nav: true 
 ---
-<div class="bg-white">
+
+ <div class="bg-white">
   <main>
-      <!-- New Section for Virtual Conference -->
+      
       <div class="bg-gray-100 py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 class="text-2xl font-default text-black-900">
+          <h2 class="text-2xl font-default text-black-900"> 
             The goal of the EDIT AI program is to provide a learning experience for students to explore the intersections between AI and medicine. We have recently submitted a proposal for the NIH R25 Science Educational Partnership Award (SEPA), which will allow us to expand the scope and reach of this current opportunity. If funded, we will interface with external program evaluators to better understand how this program can be improved. In the meanwhile, we are conducting several internal assessments of the program offering through surveys sent to students at the beginning and end of summer. We aim to publish these findings and have included a summary of some of our initial observations below (click images to learn more via popups). Currently we are supported with funding through Dartmouth Cancer Center. We are updating this page with outcomes from this year's cohort (these are outcomes for 2022), stay tuned...!:
-          </h2>
+         </h2> 
         </div>
       </div>
 

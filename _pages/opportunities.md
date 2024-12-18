@@ -96,13 +96,13 @@ This opportunity is open to PhD and Master's degree students, with special excep
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZ4jxrCH98REVvt-9cm-7Zzh7SOCP8uSs_lANidmfVLec6cw/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 ### Skills Development Track
-<iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions_skills_development.pdf" style="width:800px; height:800px;"></iframe>
+<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions_skills_development.pdf" style="width:800px; height:800px;"></iframe>
 
 ### Advanced Research Track
-<iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
+<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
 
 ### EDIT Mentor Track
-<iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
+<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
 
 ## EDIT ML Summer Program Flyers
 <div class="row">

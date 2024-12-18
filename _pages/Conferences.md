@@ -41,7 +41,9 @@ horizontal: false
 ---
 
 ## 2022
-[Visit 2022 Conference Website](#) <!-- Replace # with the actual link -->
+[Visit 2022 Conference Website](https://jlevy44.github.io/EDIT_AI_virtual_conference_22/) 
+<text> Password: edit2022 </text> <!-- Replace # with the actual link -->
+
 ### Conference Video
 <div class="flex-container">
   <iframe 

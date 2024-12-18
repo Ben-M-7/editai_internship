@@ -52,12 +52,8 @@ lab_types: ["Current","Previous"]
 
                 <div class="space-y-2">
                   <div class="text-xs font-medium lg:text-sm">
-                    <h3>{{ person.title }}</h3>
-                    {% if person.lab_type == "Current" %}
-                      <p class="text-indigo-600">{{ person.lab_type }} {{ person.description }}</p>
-                    {% else %}
-                      <p class="text-gray-600">{{ person.lab_type }} {{ person.description }}</p>
-                    {% endif %}
+                  <h3>{{ person.title }}</h3>
+                  <p class="text-indigo-600">{{ person.lab_type }} {{ person.description }}</p>
                   </div>
                 </div>
               </div>

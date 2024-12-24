@@ -9,10 +9,12 @@ news: false
 social: false
 type: "High School Summer"
 lab_type: "Current"
-description: EDIT ML Mentor 2022, Summer Intern 2021
+description: Summer Intern 2022
 ---
 
 **School:** Thomas Jefferson High School for Science and Technology
+
+**Program Track** 2022:Mentor, 2021: Advanced Skills
 
 **About Me:**
 I'm currently a high school freshman in Northern Virginia, and I'm passionate about AI and machine learning - especially biological applications. Outside of related personal projects and school, I enjoy listening to music, playing and watching basketball, traveling, and keeping up with the world. I'm looking forward to working with like minded peers this summer!

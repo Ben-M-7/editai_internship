@@ -15,65 +15,58 @@ Welcome to our FAQ page! Below are some of the most commonly asked questions. Cl
 
 ## General Questions
 
-**Q: When are applications open?**  
-_A: Applications for the summer internship are open from October to December._
+**Q: When are applications due?**  
+_A: Applications for the summer internship are currently open untill February 28th, 2025._
 
-**Q: Can I expect interviews, and if so, when are they?**  
-_A: Yes, selected students will be contacted for interviews from Febuary onwards._
 
-*Additional questions and answers can be added here.*
-
+**Q: What does the timeline look like right now?**  
+_A: After applications close, we will spend some time selecting students, and afterwards, we are expecting onboaring to go from April-June 10ish, with the program itself starting in June and going until late August._
 ---
 
-## Applications?
+## Applications
 
 **Q: I submitted my application via the Google form, have you recieved my application??**  
-_A: Yes, if you used the google form, we got it._
+_A: Yes, if you used the google form, we recieved your application. And be aware we are working on setting up a dedicated application software at the moment to streamline the process.._
 
-**Q: ?**  
-_A: ._
+**Q: Can I expect interviews, and if so, when are they?**  
+_A: Yes, selected students will be contacted for interviews starting in Febuary._
 
-*Add more questions here.*
+<!--**Q: ?**  
+_A: ._ -->
+
 
 ---
 
 ## Research
 
-**Q: Can I participate in the lab research segment without doing the summer internship?**  
-_A: No, students are invited post intership based on their performance during the program, including likelihood of publication......  ._
+**Q: Can I participate in the standalone lab research without doing the summer internship?**  
+_A: No, students are invited to do their research post summer intership based on their performance during the program, including likelihood of publication and time available._
 
-**Q: ?**  
-_A: ._
-
-*More technical FAQs can be added as needed.*
 
 ---
 
-## Other topics
+<!--## Other topics
 
 **Q:?**  
 _A: ._
 
 **Q: ?**  
-_A: ._
+_A: ._ -->
 
-*Other questions can go here.*
 
 ---
 
 ## Additional Resources
 
-**Q: Where can I find more information about _____?**  
-_A: Provide details or links._
+**Q: Where can I find more information going forward?**  
+_A: We will update the [News](http://localhost:4000/blog/) page with important announcements, so periodically check in there._
 
-**Q: Is there a way to stay updated on new features or updates?**  
-_A: Mention the blog and link it._
 
 ---
 
-If you don’t find the answer to your question here, please don’t hesitate to [contact us](/contact/) directly.
+If you don’t find the answer to your question here, please don’t hesitate to contact us at benjamin.b.mattern.28@dartmouth.edu , or moses.odei.addai.gr@dartmouth.edu directly.
 
 ---
 
-*Page last updated on: [11/07/2024]*
+*Page last updated on: [12/19/2024]*
 

@@ -112,20 +112,3 @@ table tr:nth-child(even) {
 table tr:hover {
   background-color: #b7d9cc; /* Soft Juniper */
 }
-
-/* Section Headings */
-a[id] {
-  text-decoration: none;
-  color: #004b28; /* Spruce */
-  font-size: 24px;
-}
-
-a[id]:hover {
-  color: #007a33; /* Evergreen */
-}
-
-h2 {
-  border-bottom: 2px solid #007a33; /* Evergreen */
-  padding-bottom: 5px;
-  margin-top: 40px;
-}

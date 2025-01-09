@@ -21,9 +21,9 @@ description:
 
 ## <a id="2024">2024</a>
 
-| Seminar Title        | Video Link    | Description         |
+| Readings        | Video Link    | Description         |
 |-----------------------|---------------|---------------------|
-| **Seminar 1**         | [Video 1](https://www.youtube.com/watch?v=4ryqXpxBArA&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Summer Intro & Pathology/ML.   |
+| **Seminar 2**      | [Video 1](https://www.youtube.com/watch?v=4ryqXpxBArA&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Summer Intro & Pathology/ML.   |
 | **Seminar 2**         | [Video 2](https://www.youtube.com/watch?v=mx1Z5XD0crM&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Program Intro and Intro ML.   |
 | **Seminar 3**         | [Video 3](https://www.youtube.com/watch?v=-4qiWRIffpI&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | AutoML and OpenAI.   |
 | **Seminar 4**         | [Video 4](https://www.youtube.com/watch?v=YW-wwPHe7zQ&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Cervical Cancer Screening, Intellectual Property.   |
@@ -31,7 +31,7 @@ description:
 | **Seminar 6**         | [Video 6](https://www.youtube.com/watch?v=cwo8_JjOfOA)  | Spatial Multimodal Analysis & Manuscript/Presentation Preparation   |
 | **Seminar 7**         | [Video 7](https://www.youtube.com/watch?v=kPtr0k6Kv2s&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Copper Depletion for Cancer Treatment, Spatial Multimodal Analysis.   |
 | **Seminar 8**         | [Video 8](https://www.youtube.com/watch?v=66UTQtko0N4&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  | Elemental Imaging, Cancer Immunology.   |
-| **Seminar 9**         | [Video 9](https://www.youtube.com/watch?v=dCGGc7nHuM8&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  |  Spatial Transcriptomics Inference from Histology.   |
+| **Seminar 9**         | [Video 9](https://www.youtube.com/watch?v=dCGGc7nHuM8&list=PLdpZtO0hyIny_Lcgt79OZI6tvlnDBH8Q8)  |  Spatial Transcriptomics Inference from Histology.   |         
 
 ---
 
@@ -39,7 +39,7 @@ description:
 
 | Seminar Title        | Video Link    | Description         |
 |-----------------------|---------------|---------------------|
-| **Seminar 1**         | [Video 1](https://www.youtube.com/watch?v=GluvbCwxJnc&list=PLdpZtO0hyInwkbBiLHuN9MpUlxGnKYzH_)  | Program Overview and Intro to Pathology & ML.   |
+| [1](https://www.youtube.com/watch?v=w4fQ3HEUJ_M)  [2](https://www.youtube.com/watch?v=TnOeHHX7GwI) [3](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncy.22099)        | [Video 1](https://www.youtube.com/watch?v=GluvbCwxJnc&list=PLdpZtO0hyInwkbBiLHuN9MpUlxGnKYzH_)  | Program Overview and Intro to Pathology & ML.   |
 | **Seminar 2**         | Video Unavailable  | Hierarchical Deconvolution and Classification Methods for DNA Methylation.   |
 | **Seminar 3**         | [Video 3](https://www.youtube.com/watch?v=xrAHOZ6vwx0&list=PLdpZtO0hyInwkbBiLHuN9MpUlxGnKYzH_)  | Program Intro and Intro Machine Learning.   |
 | **Seminar 4**         | [Video 4](https://www.youtube.com/watch?v=CsIaVZTn7-w&list=PLdpZtO0hyInwkbBiLHuN9MpUlxGnKYzH_)  | Machine Learning for Mental Health Research, Intro to Molecular Epidemiology.   |

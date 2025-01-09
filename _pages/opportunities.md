@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /opportunities/
-title: Opportunities
-description: (Applications)
+title: Applications
+description:
 nav: false
 ---
-[Apply for Positions Here!](#applications)
+
+ <a href="http://ec2-44-203-183-141.compute-1.amazonaws.com:8069/" class="button">Apply here!</a>
+
 ## EDIT ML High School Summer Internship Program
 
 <br>
@@ -14,19 +16,40 @@ nav: false
 </p>
 <br>
 
-The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medical Center (Emerging Diagnostic and Investigative Technologies; EDIT) Machine Learning program has been developing, validating, and scaling artificial intelligence technologies that aim to improve clinical efficiency and patient outcomes. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, graphs, electronic health records, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications). Through a series of lectures/seminars, guided projects, and IRB supported basic research, interns develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction, amongst many others. We are looking for summer interns / undergraduate researchers with a background in CS, a basic familiarity/exposure in deep learning / machine learning pipelines, and an enthusiasm for doing public good through high-throughput computation. Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/levylab/projects/).  
 
-If you are interested in this opportunity, please fill out an internship application form here: [Application](https://jlevy44.github.io/levylab/opportunities/#applications).
+The EDIT AI internship program, hosted by Dartmouth Health and the Dartmouth Cancer Center’s CRTEC Initiative, was founded in 2019 within the Department of Pathology and Laboratory Medicine. This pioneering program aims to inspire high school students from diverse socio-economic and geographic backgrounds to explore innovative career pathways at the intersection of artificial intelligence (AI) and medicine.
+
+Over the past five years, the program has grown from an inaugural class of six students representing two states to supporting 91 participants annually from 21 states (2024 cohort). To date, over 210 students have engaged in the internship, gaining technical expertise, exploring medical specialties, and applying AI to solve complex biomedical problems. The program offers three tracks tailored to students’ interests:
+
+*Skills Track:* Focused on foundational programming and machine learning techniques.
+*Advanced Track:* Emphasizing research, publications, and innovative projects.
+*Peer Mentor Track:* Combining research with mentorship responsibilities.
+
+Through a blend of project-based work, seminars, and guided research, interns develop computational methods to assess and integrate diverse biomedical data, including whole slide images, pathology text reports, metagenomic sequences, graphs, electronic health records, and multi-omics data types. The program also strengthens soft skills like communication, teamwork, and scientific writing, enabling participants to present their findings to clinical and research audiences.
+
+*EDIT AI has made a significant impact on its participants:*
+
+*Academic Advancement:* All alumni have pursued higher education in prestigious colleges and universities, some are nearing graduation.
+*Global Recognition:* Participants have presented their research and projects on international platforms.
+*Scholarly Contributions:* A significant number of students have authored publications in peer-reviewed journals, contributing valuable insights to the fields of AI and healthcare.
+*Scholarship Awards:* Numerous students have earned scholarships based on their achievements and innovations during the internship.
+
+
+ Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/levylab/projects/).  
+
+If you are interested in this opportunity, please fill out the internship application form below.
 
 If you have any follow up questions, please feel free to reach out by email to: 
 <ul>
   <li> EDIT AI coordinators Ben Mattern (benjamin.b.mattern.28@dartmouth.edu) and Moses Addai (moses.odei.addai.gr@dartmouth.edu). </li>
-  <li> Please cc' Dr. Louis Vaickus at louis.j.vaickus@hitchcock.org and Dr. Joshua Levy at joshua.j.levy@dartmouth.edu or joshua.levy@cshs.org. </li>
+  <li> Please cc' Dr. Louis Vaickus at louis.j.vaickus@hitchcock.org, Dr. Matthew Hayden at matthew.s.hayden@dartmouth.edu, and Dr. Joshua Levy at joshua.j.levy@dartmouth.edu or joshua.levy@cshs.org. </li>
 </ul>
 
 Please note we are developing a new website with an updated application portal.
 
-[Apply Here](#applications)
+**Application Portal:**
+
+ <a href="http://ec2-44-203-183-141.compute-1.amazonaws.com:8069/" class="button">Apply</a>
 
 **Timeline:**
 <ul>
@@ -40,22 +63,6 @@ Please note we are developing a new website with an updated application portal.
 **Timeline:** Applicants will be interviewed for the position during Winter 2024 and preparation for the Summer internship is expected to take place during or before Spring 2025. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
 
-
-### Applications
-<!--<span style="color:gray">*embedded application may not load if you're not signed into your Google account</span>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSdZ4jxrCH98REVvt-9cm-7Zzh7SOCP8uSs_lANidmfVLec6cw/viewform?embedded=true">
-    <input type="submit" value="Go to form" />
-</form>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZ4jxrCH98REVvt-9cm-7Zzh7SOCP8uSs_lANidmfVLec6cw/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
-
-### Skills Development Track
-<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions_skills_development.pdf" style="width:800px; height:800px;"></iframe>
-
-### Advanced Research Track
-<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
-
-### EDIT Mentor Track
-<iframe src="/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
 
 ## EDIT ML Summer Program Flyers
 <div class="row">

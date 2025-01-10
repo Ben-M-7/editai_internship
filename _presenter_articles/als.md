@@ -12,7 +12,7 @@ abstract: Currently, elemental imaging requires LA-ICP TOF-MS laser ablation ima
 summary: By exploring the relatonship between genes and metals that may be potentially neurotoxic, we observed multiple biological mechanisms that may be involved in the progression of ALS. We are seeking to train a machine learning pipeline we developed on the dataset at our disposal to predict metal abundance from tissue imaging and gene expression data, aiding doctors with diagnoses of ALS.
 excerpt_title: Q&A
 ---
-**Bios:** [Panav Mhatre](https://jlevy44.github.io/levylab/people/HS_Panav_Mhatre),[Vismay Ravikumar](https://jlevy44.github.io/levylab/people/HS_Vismay_Ravikumar),[Hrishikesh Deosthali](https://jlevy44.github.io/levylab/people/HS_Hrishikesh_Deosthali)
+**Bios:** [Panav Mhatre](https://jlevy44.github.io/editai_internship/people/HS_Panav_Mhatre),[Vismay Ravikumar](https://jlevy44.github.io/editai_internship/people/HS_Vismay_Ravikumar),[Hrishikesh Deosthali](https://jlevy44.github.io/editai_internship/people/HS_Hrishikesh_Deosthali)
 
 **Program Track:** Advanced Research
 

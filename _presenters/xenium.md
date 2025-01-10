@@ -12,7 +12,7 @@ abstract: Spatially localized gene expression, or spatial transcriptomics, at th
 summary: This study developed machine-learning methods to predict gene activity from tissue images, as an alternative to costly and inaccessible alternatives of generating gene activity data. We found that machine learning methods, especially those that attempted to incorporate broader tissue information, showed promise in gene activity prediction despite working with a limited dataset. 
 excerpt_title: Q&A
 ---
-**Bios:** [Ashank Shah](https://jlevy44.github.io/levylab/people/HS_Ashank_Shah)
+**Bios:** [Ashank Shah](https://jlevy44.github.io/editai_internship/people/HS_Ashank_Shah)
 
 **Program Track:** Mentor
 

@@ -12,7 +12,7 @@ abstract: Nuclei segmentation is a critical step in the analysis of histopatholo
 summary: Nuclei segmentation is a computer-based method that helps doctors and researchers automatically identify and analyze the control center of cells in tissue samples. This process is essential for diagnosing diseases like cancer and studying cell behavior. This study aims to automate this process without using resource-intensive artificial intelligence models that take up lots of processing power.
 excerpt_title: Q&A
 ---
-**Bios:** [Nithish Muthiah](https://jlevy44.github.io/levylab/people/HS_Nithish_Muthiah)
+**Bios:** [Nithish Muthiah](https://jlevy44.github.io/editai_internship/people/HS_Nithish_Muthiah)
 
 **Program Track:** Skills Development
 

@@ -12,7 +12,7 @@ abstract:  Understanding the spatial organization and interactions of immune cel
 summary: We are developing an advanced computer model to automatically find and map immune cells, like white blood cells, in tissue samples, which could help doctors better understand and treat diseases like cancer. By using cutting-edge technology, our approach aims to make the analysis of these cells faster, more accurate, and easier to perform. 
 excerpt_title: Q&A
 ---
-**Bios:** [Sohan Arigela](https://jlevy44.github.io/levylab/people/HS_Sohan_Arigela),[Srihas Motati](https://jlevy44.github.io/levylab/people/HS_Srihas_Motati)
+**Bios:** [Sohan Arigela](https://jlevy44.github.io/editai_internship/people/HS_Sohan_Arigela),[Srihas Motati](https://jlevy44.github.io/editai_internship/people/HS_Srihas_Motati)
 
 **Program Track:** Skills Development
 

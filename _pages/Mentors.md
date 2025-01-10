@@ -31,7 +31,7 @@ lab_types: ["Current","Previous"]
                 <div class="p-2 space-y-4 rounded transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-100 duration-300">
                   {% if person.img %}
                       {% if person.img=="placeholder" %}
-                        <img class="mx-auto h-24 w-24 rounded-full lg:w-32 lg:h-32" src="/levylab/assets/img/blank_profile.png" alt="">
+                        <img class="mx-auto h-24 w-24 rounded-full lg:w-32 lg:h-32" src="/editai_internship/assets/img/blank_profile.png" alt="">
                       {% else %}
                         <img class="mx-auto h-24 w-24 rounded-full lg:w-32 lg:h-32" src="{{ person.img | prepend: site.baseurl | prepend: site.url }}" alt="">
                       {% endif %}

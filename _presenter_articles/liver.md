@@ -12,7 +12,7 @@ abstract: The goal of this research project is to improve early identification o
 summary: Our project uses advanced computer technology to help doctors detect liver tumors in medical images more accurately and quickly. By training computers to identify liver tumors in CT scans, we're making it easier for doctors to catch cancer early and provide timely treatment.
 excerpt_title: Q&A
 ---
-**Bios:** [Prannav Murukesh](https://jlevy44.github.io/levylab/people/HS_Prannav_Murukesh),[Adharsh Laguduva](https://jlevy44.github.io/levylab/people/HS_Adharsh_Laguduva)
+**Bios:** [Prannav Murukesh](https://jlevy44.github.io/editai_internship/people/HS_Prannav_Murukesh),[Adharsh Laguduva](https://jlevy44.github.io/editai_internship/people/HS_Adharsh_Laguduva)
 
 **Program Track:** Skills Development
 

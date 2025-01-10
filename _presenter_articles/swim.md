@@ -12,7 +12,7 @@ abstract: The vigorous training of swimmers and in particular the repetitive str
 summary: I created a web app for a RAG workflow powered by an LLM to answer queries about swimming injuries. The LLM references a curated database of over 200 scientific articles on swimming injuries to provide accurate and grounded information.
 excerpt_title: Q&A
 ---
-**Bios:** [Patrick McOsker](https://jlevy44.github.io/levylab/people/HS_Patrick_McOsker)
+**Bios:** [Patrick McOsker](https://jlevy44.github.io/editai_internship/people/HS_Patrick_McOsker)
 
 **Program Track:** Advanced Research
 

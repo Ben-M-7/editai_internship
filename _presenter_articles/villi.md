@@ -12,7 +12,7 @@ abstract: The placenta is an essential organ that transfers nutrients from the m
 summary: Pathologists often disagree in differentiating between villi types, thus we use clustering to find a separation. Instead of focusing on cell types and villi metrics we wish to find a connection between superficial clusters and morphological clusters.
 excerpt_title: Q&A
 ---
-**Bios:** [Leah Zhang](https://jlevy44.github.io/levylab/people/HS_Leah_Zhang)
+**Bios:** [Leah Zhang](https://jlevy44.github.io/editai_internship/people/HS_Leah_Zhang)
 
 **Program Track:** Advanced Research
 

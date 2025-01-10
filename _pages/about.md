@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /about
-
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -48,7 +47,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
       <p>
-        Welcome to the Emerging Diagnostic and Investigative Technologies <a href="https://www.dartmouth-hitchcock.org/pathology/research#:~:text=The%20E.D.I.T.%20(Emerging%20Diagnostic%20and%20Investigative%20Technologies)%20Program">EDIT</a> program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy <a href="https://jlevy44.github.io/levylab/">Levy Lab</a> serves as Co-Head of the EDIT Machine Learning (ML) Group. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
+        Welcome to the Emerging Diagnostic and Investigative Technologies <a href="https://www.dartmouth-hitchcock.org/pathology/research#:~:text=The%20E.D.I.T.%20(Emerging%20Diagnostic%20and%20Investigative%20Technologies)%20Program">EDIT</a> program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy <a href="https://jlevy44.github.io/editai_internship/">Levy Lab</a> serves as Co-Head of the EDIT Machine Learning (ML) Group. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
       </p>
 
       <br/>

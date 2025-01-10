@@ -12,7 +12,7 @@ abstract: As skin is exposed chronically to the sun’s UV rays, various skin pr
 summary: This project tests the capabilities of synthetic spatial data to study how sunlight affects skin aging at the molecular level. The data, though created through artificial means, proved to be effective in biological analysis and reveals new spatial insights in how sun damage progresses in the skin.
 excerpt_title: Q&A
 ---
-**Bios:** [Victoria Zhang](https://jlevy44.github.io/levylab/people/HS_Victoria_Zhang)
+**Bios:** [Victoria Zhang](https://jlevy44.github.io/editai_internship/people/HS_Victoria_Zhang)
 
 **Program Track:** Advanced Research
 

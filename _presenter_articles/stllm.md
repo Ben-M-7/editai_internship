@@ -12,7 +12,7 @@ abstract: Skin cancer affects one out of every five Americans during their lifet
 summary: My work aims to make skin cancer detection more effective and efficient using AI.
 excerpt_title: Q&A
 ---
-**Bios:** [Sidh Jaddu](https://jlevy44.github.io/levylab/people/HS_Sidh_Jaddu)
+**Bios:** [Sidh Jaddu](https://jlevy44.github.io/editai_internship/people/HS_Sidh_Jaddu)
 
 **Program Track:** Advanced Research
 

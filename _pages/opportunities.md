@@ -35,7 +35,7 @@ Through a blend of project-based work, seminars, and guided research, interns de
 *Scholarship Awards:* Numerous students have earned scholarships based on their achievements and innovations during the internship.
 
 
- Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/levylab/projects/).  
+ Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/editai_internship/projects/).  
 
 If you are interested in this opportunity, please fill out the internship application form below.
 

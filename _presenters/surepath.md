@@ -12,7 +12,7 @@ abstract: Cervical cancer and cervical intraepithelial neoplasia (CIN) are signi
 summary: We're improving a computer model that helps doctors detect cervical cancer by making it work better with different testing methods. This will help ensure that more women get accurate and reliable results, no matter which test is used.
 excerpt_title: Q&A
 ---
-**Bios:** [Amrit Singh](https://jlevy44.github.io/levylab/people/HS_Amrit_Singh),[Shreyas Pendem](https://jlevy44.github.io/levylab/people/HS_Shreyas_Pendem)
+**Bios:** [Amrit Singh](https://jlevy44.github.io/editai_internship/people/HS_Amrit_Singh),[Shreyas Pendem](https://jlevy44.github.io/editai_internship/people/HS_Shreyas_Pendem)
 
 **Program Track:** Advanced Research
 

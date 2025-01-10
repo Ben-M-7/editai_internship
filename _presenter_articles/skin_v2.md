@@ -12,7 +12,7 @@ abstract: The purpose of this project was to develop a method for preprocessing 
 summary: This project preprocessed whole slide images of skin cancer tissue samples for use in a graph convolutional network (GCN). While a GCN was not developed as part of this project, the objective of the GCN would be to use key features from the slide images to predict 5-year survival.
 excerpt_title: Q&A
 ---
-**Bios:** [Ewan Ward](https://jlevy44.github.io/levylab/people/HS_Ewan_Ward)
+**Bios:** [Ewan Ward](https://jlevy44.github.io/editai_internship/people/HS_Ewan_Ward)
 
 **Program Track:** Skills Development
 

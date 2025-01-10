@@ -12,7 +12,7 @@ abstract: Skin cancer is a major and potentially deadly disease, making early an
 summary: Skin cancer is a huge issue around the world as tumors can be mistaken for other abnormalities on the skin. To help stop skin tumors from being mistaken and the skin cancer from progressing to further stages I trained a model to detect tumors on the skin at multiple different stages, for a more efficient way to detect skin cancer as earlier stages when tumors aren't as prominent. 
 excerpt_title: Q&A
 ---
-**Bios:** [Rohan Peddireddy](https://jlevy44.github.io/levylab/people/HS_Rohan_Peddireddy)
+**Bios:** [Rohan Peddireddy](https://jlevy44.github.io/editai_internship/people/HS_Rohan_Peddireddy)
 
 **Program Track:** Skills Development
 

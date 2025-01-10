@@ -12,7 +12,7 @@ abstract: Urothelial carcinoma poses significant challenges in diagnosis and tre
 summary:  We utilized multiple-instance learning to enhance bladder cancer diagnosis by analyzing and ranking individual cells, even in the early stages, based on their malignancy. This tool allows for more accurate diagnoses and better-targeted treatments, improving care for patients.
 excerpt_title: Q&A
 ---
-**Bios:** [Tanay Panja](https://jlevy44.github.io/levylab/people/HS_Tanay_Panja)
+**Bios:** [Tanay Panja](https://jlevy44.github.io/editai_internship/people/HS_Tanay_Panja)
 
 **Program Track:** Advanced Research
 

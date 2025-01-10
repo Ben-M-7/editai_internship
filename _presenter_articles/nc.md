@@ -12,7 +12,7 @@ abstract: This research project explores the efficiency of using a machine-learn
 summary: I created and trained a machine-learning model to be able to classify benign and malignant cancer cells. Although additional time will be needed to be able to identify such cells through their nuclear-cytoplasmic ratios, the model will be trained using over 10,000 images, and will undergo testing with an additional 3,000 images to ensure an effective model analysis of cells.
 excerpt_title: Q&A
 ---
-**Bios:** [Joshua Wijaya](https://jlevy44.github.io/levylab/people/HS_Joshua_Wijaya)
+**Bios:** [Joshua Wijaya](https://jlevy44.github.io/editai_internship/people/HS_Joshua_Wijaya)
 
 **Program Track:** Skills Development
 

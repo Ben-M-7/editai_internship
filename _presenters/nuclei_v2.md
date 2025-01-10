@@ -12,7 +12,7 @@ abstract: Early and accurate cancer detection is vital for effective treatment a
 summary: Cancerous skin tissue poses a severe threat to the body and traditional methods to detect these cancerous cells can be slow and error-prone, which can delay diagnosis and treatment. This summer I developed a machine-learning model that can rapidly and accurately identify cancerous nuclei in histopathological images,  which demonstrates how advanced algorithms can be effectively integrated into healthcare.
 excerpt_title: Q&A
 ---
-**Bios:** [Afya Shaikh](https://jlevy44.github.io/levylab/people/HS_Afya_Shaikh)
+**Bios:** [Afya Shaikh](https://jlevy44.github.io/editai_internship/people/HS_Afya_Shaikh)
 
 **Program Track:** Skills Development
 

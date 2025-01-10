@@ -12,7 +12,7 @@ abstract: Cholangiocarcinoma, commonly known as bile duct cancer, is a rare but 
 summary: Our project uses advanced imaging and artificial intelligence to improve the early detection of bile duct cancer, a rare but deadly disease. By training a computer model to accurately distinguish between cancerous and non-cancerous cells, we aim to enhance diagnosis and help doctors make better treatment decisions, potentially saving lives.
 excerpt_title: Q&A
 ---
-**Bios:** [Aadi Duggal](https://jlevy44.github.io/levylab/people/HS_Aadi_Duggal),[Vedhsai Thiriveedi](https://jlevy44.github.io/levylab/people/HS_VedhSai_Thiriveedi),[Rishitha Mantri](https://jlevy44.github.io/levylab/people/HS_Rishitha_Mantri),[Rishika Singh](https://jlevy44.github.io/levylab/people/HS_Rishiak_Singh)
+**Bios:** [Aadi Duggal](https://jlevy44.github.io/editai_internship/people/HS_Aadi_Duggal),[Vedhsai Thiriveedi](https://jlevy44.github.io/editai_internship/people/HS_VedhSai_Thiriveedi),[Rishitha Mantri](https://jlevy44.github.io/editai_internship/people/HS_Rishitha_Mantri),[Rishika Singh](https://jlevy44.github.io/editai_internship/people/HS_Rishiak_Singh)
 
 **Program Track:** Advanced Research
 

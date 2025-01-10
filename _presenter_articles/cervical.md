@@ -12,7 +12,7 @@ abstract: This project involves using machine learning to classify squamous cell
 summary: This project uses machine learning to classify squamous cells from cervical cancer samples, helping to quickly and accurately identify normal versus abnormal cells. By training a model on annotated cell images, we aim to improve diagnostic efficiency and support better patient care in detecting cervical cancer.
 excerpt_title: Q&A
 ---
-**Bios:** [Raymond Gao](https://jlevy44.github.io/levylab/people/HS_Raymond_Gao),[Omolara Dawson](https://jlevy44.github.io/levylab/people/HS_Omolara_Dawson)
+**Bios:** [Raymond Gao](https://jlevy44.github.io/editai_internship/people/HS_Raymond_Gao),[Omolara Dawson](https://jlevy44.github.io/editai_internship/people/HS_Omolara_Dawson)
 
 **Program Track:** Skills Development
 

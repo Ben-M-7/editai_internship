@@ -12,7 +12,7 @@ abstract: The advancement of skin disease diagnosis and treatment has long been 
 summary: This project enhanced skin disease diagnosis by integrating high-resolution tissue imaging with detailed single-cell genetic analysis. Using this combined data, I trained a Generative Adversarial Network (GAN) to produce ultra-detailed images of the skin issue, surpassing the resolution of traditional methods and improving the clarity of disease characterisation. 
 excerpt_title: Q&A
 ---
-**Bios:** [Bhavana Rupakula](https://jlevy44.github.io/levylab/people/HS_Bhavana_Rupakula)
+**Bios:** [Bhavana Rupakula](https://jlevy44.github.io/editai_internship/people/HS_Bhavana_Rupakula)
 
 **Program Track:** Advanced Research
 

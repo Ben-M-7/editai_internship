@@ -12,7 +12,7 @@ abstract: Skin cancer is one of the most common cancers in the United States. Ea
 summary: I would describe my project as an easier way to identify whether you have skin cancer or not. My work uses basic machine learning algorithms with high accuracy rates to determine whether a person has skin cancer or not based off of features of the person's skin.
 excerpt_title: Q&A
 ---
-**Bios:** [Ryan Guo](https://jlevy44.github.io/levylab/people/HS_Ryan_Guo)
+**Bios:** [Ryan Guo](https://jlevy44.github.io/editai_internship/people/HS_Ryan_Guo)
 
 **Program Track:** Skills Development
 

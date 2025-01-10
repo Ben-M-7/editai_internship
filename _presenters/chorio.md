@@ -12,7 +12,7 @@ abstract: Choriocarcinoma is a rare and aggressive form of placenta cancer that 
 summary: We worked on labeling different parts of a cell that may indicate a dangerous type of cancer related to pregnancy. These "annotations" help different models to be able to detect if a person has this type of cancer or other abnormalties. 
 excerpt_title: Q&A
 ---
-**Bios:** [Faraaz Rattani](https://jlevy44.github.io/levylab/people/HS_Faraaz_Rattani),[Ashwin Menachery](https://jlevy44.github.io/levylab/people/HS_Ashwin_Menachery)
+**Bios:** [Faraaz Rattani](https://jlevy44.github.io/editai_internship/people/HS_Faraaz_Rattani),[Ashwin Menachery](https://jlevy44.github.io/editai_internship/people/HS_Ashwin_Menachery)
 
 **Program Track:** Advanced Research
 

@@ -12,7 +12,7 @@ abstract: 600,000 Americans suffer from kidney stone disease each year. Kidney s
 summary: Our project aims to understand the role of trace elements-minerals that exist in small amounts- in different kidney stone formation using machine learning and statistical analysis. Our project is in collaboration with the Sunita Ho Lab at the University of San Fransisco which found significance of certain proteins in stone formation that we use in our analysis.
 excerpt_title: Q&A
 ---
-**Bios:** [Naina Kumar](https://jlevy44.github.io/levylab/people/HS_Naina_Kumar),[Nishita Paruchuri ](https://jlevy44.github.io/levylab/people/HS_Nishita_Paruchuri)
+**Bios:** [Naina Kumar](https://jlevy44.github.io/editai_internship/people/HS_Naina_Kumar),[Nishita Paruchuri ](https://jlevy44.github.io/editai_internship/people/HS_Nishita_Paruchuri)
 
 **Program Track:** Advanced Research
 

@@ -12,7 +12,7 @@ abstract: The NASH Fibrosis Staging- Virtual Staining and Deep Ordinal Regressio
 summary: Our project, Enhanced NASH Fibrosis Staging, uses cutting-edge technology to improve the detection and understanding of liver scarring caused by chronic diseases like non-alcoholic steatohepatitis (NASH). By analyzing liver tissue images and medical data, we aim to identify early signs of liver damage, helping doctors diagnose and treat patients more effectively before the disease progresses.
 excerpt_title: Q&A
 ---
-**Bios:** [Luqmaan Shaikh ](https://jlevy44.github.io/levylab/people/HS_Luqmaan_Shaikh)
+**Bios:** [Luqmaan Shaikh ](https://jlevy44.github.io/editai_internship/people/HS_Luqmaan_Shaikh)
 
 **Program Track:** Skills Development
 

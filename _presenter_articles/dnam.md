@@ -12,7 +12,7 @@ abstract: DNA methylation influences cancer by reducing methylation in tumor sup
 summary: My project focuses on using advanced computer models to help identify different types of cancer by analyzing specific patterns in DNA. We found that combining several models gives us highly accurate results, but we still need to improve to make sure the system works well for all cancer types.
 excerpt_title: Q&A
 ---
-**Bios:** [Ayaan Shaikh](https://jlevy44.github.io/levylab/people/HS_Ayaan_Shaikh)
+**Bios:** [Ayaan Shaikh](https://jlevy44.github.io/editai_internship/people/HS_Ayaan_Shaikh)
 
 **Program Track:** Skills Development
 

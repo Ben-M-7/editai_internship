@@ -12,7 +12,7 @@ abstract: Health literacy and clear communication are essential for informed dec
 summary: Our project creates a tool to help clinicians gain a better understanding of their patients' cancer cases by summarizing key details of relevant cancer cases from a large database of pathology reports. This tool uses an efficient artificial intelligence model to provide relevant insights without requiring extensive computing resources or internet access.
 excerpt_title: Q&A
 ---
-**Bios:** [Tanya Nair](https://jlevy44.github.io/levylab/people/HS_Tanya_Nair),[Connor Friedman](https://jlevy44.github.io/levylab/people/HS_Connor_Friedman),[Aayush Shivashankar](https://jlevy44.github.io/levylab/people/HS_Aayush_Shivashankar),[Valmik Nahata](https://jlevy44.github.io/levylab/people/HS_Valmik_Nahata)
+**Bios:** [Tanya Nair](https://jlevy44.github.io/editai_internship/people/HS_Tanya_Nair),[Connor Friedman](https://jlevy44.github.io/editai_internship/people/HS_Connor_Friedman),[Aayush Shivashankar](https://jlevy44.github.io/editai_internship/people/HS_Aayush_Shivashankar),[Valmik Nahata](https://jlevy44.github.io/editai_internship/people/HS_Valmik_Nahata)
 
 **Program Track:** Advanced Research
 

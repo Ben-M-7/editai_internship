@@ -12,7 +12,7 @@ abstract: Glioblastoma, a highly aggressive and lethal form of brain cancer, pre
 summary: I'm developing a new tool to help doctors predict how aggressive a type of brain cancer called glioblastoma might be in each patient. By analyzing different kinds of medical data, this tool aims to provide more accurate and personalized treatment plans, potentially improving outcomes for patients facing this challenging disease.
 excerpt_title: Q&A
 ---
-**Bios:** [Gaura Jha](https://jlevy44.github.io/levylab/people/HS_Gaura_Jha)
+**Bios:** [Gaura Jha](https://jlevy44.github.io/editai_internship/people/HS_Gaura_Jha)
 
 **Program Track:** Advanced Research
 

@@ -12,7 +12,7 @@ abstract: In thyroid Fine-Needle Aspiration (FNA) biopsies, cytopathologists exa
 summary: In many cases, it’s difficult for doctors to determine if a patient has thyroid cancer or not. We developed a machine learning approach to assist doctors with this diagnosis.
 excerpt_title: Q&A
 ---
-**Bios:** [Aneesh Kalla](https://jlevy44.github.io/levylab/people/HS_Aneesh_Kalla),[Anvith Kakkera](https://jlevy44.github.io/levylab/people/HS_Anvith_Kakkera),[Anish Malepati](https://jlevy44.github.io/levylab/people/HS_Anish_Malepati)
+**Bios:** [Aneesh Kalla](https://jlevy44.github.io/editai_internship/people/HS_Aneesh_Kalla),[Anvith Kakkera](https://jlevy44.github.io/editai_internship/people/HS_Anvith_Kakkera),[Anish Malepati](https://jlevy44.github.io/editai_internship/people/HS_Anish_Malepati)
 
 **Program Track:** Mentor
 

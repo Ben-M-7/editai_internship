@@ -12,7 +12,7 @@ abstract: The tumor microenvironment is highly complex and consists of multiple 
 summary: The purity of a tumor refers to the proportion of cells in a tumor that are actually cancerous and is a crucial metric for medical professionals to understand patient treatment options as well as survival outcomes. We present a novel automated approach to estimating tumor purity from images of the tumor tissue using machine learning techniques.
 excerpt_title: Q&A
 ---
-**Bios:** [Neil Daniel](https://jlevy44.github.io/levylab/people/HS_Neil_Daniel),[Neha Ranjith](https://jlevy44.github.io/levylab/people/HS_Neha_Ranjith),[Edward Kim](https://jlevy44.github.io/levylab/people/),[Alim A. Oraz](https://jlevy44.github.io/levylab/people/HS_Alim_Oraz)
+**Bios:** [Neil Daniel](https://jlevy44.github.io/editai_internship/people/HS_Neil_Daniel),[Neha Ranjith](https://jlevy44.github.io/editai_internship/people/HS_Neha_Ranjith),[Edward Kim](https://jlevy44.github.io/editai_internship/people/),[Alim A. Oraz](https://jlevy44.github.io/editai_internship/people/HS_Alim_Oraz)
 
 **Program Track:** Advanced Research
 

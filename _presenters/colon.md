@@ -12,7 +12,7 @@ abstract: Today, Colon cancer is one of the leading causes of cancer-related dea
 summary: Our project uses advanced computer algorithms to help doctors detect colon tumors more accurately and quickly. By analyzing medical images with machine learning, we're improving the chances of finding and treating colon cancer. 
 excerpt_title: Q&A
 ---
-**Bios:** [Scott Chen](https://jlevy44.github.io/levylab/people/HS_Scott_Chen),[Arav Srivastava](https://jlevy44.github.io/levylab/people/HS_Arav_Srivastava)
+**Bios:** [Scott Chen](https://jlevy44.github.io/editai_internship/people/HS_Scott_Chen),[Arav Srivastava](https://jlevy44.github.io/editai_internship/people/HS_Arav_Srivastava)
 
 **Program Track:** Skills Development
 

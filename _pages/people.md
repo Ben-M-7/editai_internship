@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: people
 description:
 nav: true
 person_types: ["Principal Investigator","Collaborators","PhD","PhD Students","Medical Students","Master's","Undergraduates","High School Summer"]

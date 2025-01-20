@@ -4,7 +4,7 @@ title: Elizabeth Anderson
 img: /assets/img/blank_profile.png
 profile:
   align: right
-  image: default
+  image: 
 news: false
 social: false
 type: "PhD Students"

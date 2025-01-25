@@ -12,7 +12,7 @@ nav: false
 
 <br>
 <p align="center">
-    <img src="/assets/img/edit_thumbnail.png" width="40%">
+    <img src="../assets/img/edit_ml_website.jpg" width="100%">
 </p>
 <br>
 
@@ -67,9 +67,9 @@ Please note we are developing a new website with an updated application portal.
 ## EDIT ML Summer Program Flyers
 <div class="row">
   <div class="column">
-    <img src="/assets/img/22_student_summer.jpg" width="100%">
+    <img src="../assets/img/22_student_summer.jpg" width="100%">
   </div>
   <div class="column">
-    <img src="/assets/img/22_general_summer.jpg" width="100%">
+    <img src="../assets/img/22_general_summer.jpg" width="100%">
   </div>
 </div>

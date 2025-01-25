@@ -47,7 +47,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
       <p>
-        Welcome to the Emerging Diagnostic and Investigative Technologies <a href="https://www.dartmouth-hitchcock.org/pathology/research#:~:text=The%20E.D.I.T.%20(Emerging%20Diagnostic%20and%20Investigative%20Technologies)%20Program">EDIT</a> program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy <a href="https://jlevy44.github.io/levylab/">Levy Lab</a> serves as Co-Head of the EDIT Machine Learning (ML) Group. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
+        Welcome to the Emerging Diagnostic and Investigative Technologies <a href="https://www.dartmouth-hitchcock.org/pathology/research#:~:text=The%20E.D.I.T.%20(Emerging%20Diagnostic%20and%20Investigative%20Technologies)%20Program">EDIT</a> program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy <a href="https://jlevy44.github.io/levylab/">Levy Lab</a>, Professor <a href="https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=6618">Louis Vaickus</a>, and Professor <a href="https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=6829">Matthew Hayden</a> serve as leaders, along with Hitchcock's Matt Firing and Benjamin Koziol, program coordinators Ben Mattern and Moses Odei Addai, and Dartmouth's Cancer Center leadership. The EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to, and instruction reguarding biomedical research.
       </p>
 
       <br/>
@@ -64,6 +64,37 @@ social: false  # includes social icons at the bottom of the page
         </figcaption>
         <br/>
       </figure>
+<br>
+  <h4>
+        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Diversifying STEM Workforce:</span>
+      </h4>
+      <br/>
+
+      <p>
+       This program plays a vital role in mitigating bias in AI-augmented clinical decision making by diversifying the STEM workforce. While AI technologies have the potential to revolutionize healthcare by augmenting clinical decision making, bias in AI algorithms can negatively impact historically underserved groups and lead to misdiagnosis. The lack of representation from underrepresented racial and ethnic groups, women, and under-resourced rural and urban school districts in STEM training and career exploration exacerbates this bias. By broadening participation in the development of AI algorithms and diversifying the STEM workforce, we can ensure that AI technologies benefit clinicians and patients from all backgrounds.
+
+      </p>
+    </div>
+  </div>
+<br>
+
+
+<br>
+  <h4>
+        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Equitable Access to Medical AI Education:</span>
+      </h4>
+      <br/>
+
+      <p>
+       The realities of internet technologies and the limitations imposed by the pandemic have further highlighted the need for remote learning opportunities. In-person STEM learning often favors students who can travel and afford such experiences. The pandemic has limited access to in-person learning and exposed the inaccessibility of tuition-charging or unpaid programs. Remote learning, while expanding educational experiences, presents challenges for students without reliable internet and devices, especially in communities with limited infrastructure. By offering a remote learning opportunity, we aim to bridge these gaps and provide equitable access to AI education and STEM opportunities.
+
+      </p>
+    
+  </div>
+<br>
+
+<div>
+
       <h4>
         <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Program Structure and Resources</span>
       </h4>
@@ -109,68 +140,18 @@ social: false  # includes social icons at the bottom of the page
 
       </p>
       <br/>
-      <h4>
-        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Interdisciplinary Mindset</span>
-      </h4>
-      <br/>
-
-      <p>
-        Since the EDIT Program is fully embedded within the clinical departments of Pathology and Dermatology at Dartmouth Hitchcock Medical Center, members are challenged to think critically about the successful design of clinically impactful technologies. As part of the summer research internship program, students are asked to present their research in front of medical faculty, residents and technical staff. Students are encouraged to communicate how their work will directly address “big picture” issues in Pathology versus highlighting the computational aspects, which are important but of less relevance for the target audience. We hope these experiences will continue to shape how students engage project stakeholders both during and after their time at Dartmouth.
-      </p>
-    </div>
-  </div>
+    
   <div class="text-lg max-w-prose mx-auto">
     <br/>
     <h1>
       <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Affiliations</span>
     </h1>
     <br/>
-    <div class=" h-auto grid grid-cols-1 gap-4 sm:grid-cols-2">
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="https://www.dartmouth-hitchcock.org/dermatology" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Department of Dermatology, Dartmouth Hitchcock Medical Center</p>
-            <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
-          </a>
-        </div>
-      </div>
-
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="https://geiselmed.dartmouth.edu/epidemiology/" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Department of Epidemiology, Geisel School of Medicine at Dartmouth</p>
-            <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
-          </a>
-        </div>
-      </div>
-
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="https://geiselmed.dartmouth.edu/qbs/" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth</p>
-            <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
-          </a>
-        </div>
-      </div>
-
       <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
         <div class="flex-1 min-w-0">
           <a href="https://cancer.dartmouth.edu/scientists-researchers/cancer-population-sciences" class="focus:outline-none">
             <span class="absolute inset-0" aria-hidden="true"></span>
             <p class="text-sm font-medium text-gray-900">NCCC Cancer Population Sciences Member, Dartmouth Cancer Center</p>
-            <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
-          </a>
-        </div>
-      </div>
-
-      <div class="relative rounded-lg border border-gray-300 bg-white px-6 py-5 shadow-sm flex items-center space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500">
-        <div class="flex-1 min-w-0">
-          <a href="https://cancer.dartmouth.edu/scientists-researchers/biostatistics-bioinformatics-shared-resource" class="focus:outline-none">
-            <span class="absolute inset-0" aria-hidden="true"></span>
-            <p class="text-sm font-medium text-gray-900">Biostatistics and Bioinformatics Shared Resource Faculty, Dartmouth Cancer Center</p>
             <p class="text-sm text-gray-500 truncate">Lebanon, New Hampshire, USA</p>
           </a>
         </div>

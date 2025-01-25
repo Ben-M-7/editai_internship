@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://Ben-M-7.github.io/editai_internship/sitemap.xml

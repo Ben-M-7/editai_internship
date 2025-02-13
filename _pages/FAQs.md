@@ -26,10 +26,13 @@ _A: After applications close, we will spend some time selecting students, and af
 ## Applications
 
 **Q: I submitted my application via the Google form, have you recieved my application??**  
-_A: Yes, if you used the google form, we recieved your application. And be aware we are working on setting up a dedicated application software at the moment to streamline the process.._
+_A: Yes, if you used the google form, we recieved your application. And be aware we are working on setting up a dedicated application software at the moment to streamline the process._
 
 **Q: Can I expect interviews, and if so, when are they?**  
 _A: Yes, selected students will be contacted for interviews starting in Febuary._
+
+**Q: Bonus question 2d from the skills development track technical questions has a broken link**  
+_A: This link is out of date as we have not updated our interview questions in quite a while (before ChatGPT). Please instead replace with a ChatGPT prompt or read through: https://platform.openai.com/docs/guides/completions  We will work on updating this question._
 
 <!--**Q: ?**  
 _A: ._ -->

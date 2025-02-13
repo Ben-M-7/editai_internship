@@ -74,11 +74,11 @@ description:
 
 | Readings (uploaded soon)       | Video Link    | Presenters     | Description         |
 |-----------------------|---------------|---------------------|
-| **Seminar 1**         | [Video 1](https://www.youtube.com/watch?v=sgecANc6W_0&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Joshua Levy | Emerging ML Methods & NASH.   |
-| **Seminar 2**         | [Video 2](https://www.youtube.com/watch?v=w4fQ3HEUJ_M&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Louis Vaickus | Intro to Pathology.   |
-| **Seminar 3**         | [Video 3](https://www.youtube.com/watch?v=0LStzEr9QIo&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Chris Jackson and Matt LeBoeuf | Part 1.  |
-| **Seminar 4**         | [Video 4](https://www.youtube.com/watch?v=_ITtZpGESLU&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Chris Jackson and Matt LeBoeuf | Part 2.  |
-| **Seminar 5**         | [Video 5](https://www.youtube.com/watch?v=n_WoaP8__Xc&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Louis Vaickus | Manuscript Preparation.   |
+| **-**         | [Video 1](https://www.youtube.com/watch?v=sgecANc6W_0&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Joshua Levy | Emerging ML Methods & NASH.   |
+| **-**         | [Video 2](https://www.youtube.com/watch?v=w4fQ3HEUJ_M&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Louis Vaickus | Intro to Pathology.   |
+| **-**         | [Video 3](https://www.youtube.com/watch?v=0LStzEr9QIo&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Chris Jackson and Matt LeBoeuf | Part 1.  |
+| **-**         | [Video 4](https://www.youtube.com/watch?v=_ITtZpGESLU&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Chris Jackson and Matt LeBoeuf | Part 2.  |
+| **-**         | [Video 5](https://www.youtube.com/watch?v=n_WoaP8__Xc&list=PLdpZtO0hyInzPFWQWHigVSUJu3jAv6Cjh)  | Louis Vaickus | Manuscript Preparation.   |
 
 ---
 

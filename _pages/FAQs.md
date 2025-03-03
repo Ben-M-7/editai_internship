@@ -16,7 +16,7 @@ Welcome to our FAQ page! Below are some of the most commonly asked questions. Cl
 ## General Questions
 
 **Q: When are applications due?**  
-_A: Applications for the summer internship are currently open untill February 28th, 2025._
+_A: Applications for the summer internship are currently open untill April 15th, 2025._
 
 
 **Q: What does the timeline look like right now?**  

@@ -112,6 +112,9 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  edit_mentors:
+    output: true
+    permalink: /mentors/:path/
 news_limit: 5
 
 # -----------------------------------------------------------------------------

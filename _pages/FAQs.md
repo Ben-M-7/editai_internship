@@ -62,7 +62,7 @@ _A: ._ -->
 ## Additional Resources
 
 **Q: Where can I find more information going forward?**  
-_A: We will update the [News](http://localhost:4000/blog/) page with important announcements, so periodically check in there._
+_A: We will update the [News](http://https://Ben-M-7.github.io/editai_internship/blog/) page with important announcements, so periodically check in there._
 
 
 ---

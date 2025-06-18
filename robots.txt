@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/editai_internship/sitemap.xml
+Sitemap: http://editai_internship/sitemap.xml

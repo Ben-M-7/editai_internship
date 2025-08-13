@@ -17,6 +17,12 @@ $max-content-width: {{ site.max_width }};
 
 ;
 
+//Forcing <strong> to show up in publications
+strong {
+  font-weight: bold !important;
+}
+
+
 ///This is for Conferences page
 
 .flex-container {

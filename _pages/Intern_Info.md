@@ -30,8 +30,12 @@ strong {
 </style>
 
 <div class="section-alt">
-  <h2>Welcome to the 2025 EDIT AI Cohort</h2>
-  <p>Congratulations on your acceptance! We’ve already had our legal team reach out to you and your parent or guardian regarding disclosure agreements. If you haven’t completed them yet, please do so ASAP.</p>
+  <h2>Important!</h2>
+  <p>Refer to this Google form for how to secure leeters of rec, how to submit your group for the end of summer symposium, how and where to submit end of summer deliverables, and more:  </p>
+  <div>
+  <h2>Overall checklist form for reference</h2>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGCsOtybwxybGbuosvSBnjkc6ZNkVhqgYMbgu-uLpQdaBx-A/viewform" class="button-green" target="_blank">Open end of summer deliverables form</a>
+</div>
 </div>
 
 <div>

@@ -73,7 +73,7 @@ lab_types: ["Current","Previous"]
 
             {% for person in sorted_people %}
               <li>
-                <a class="text-indigo-600 hover:no-underline" href="{{ person.redirect_url }}">
+                <a class="text-indigo-600 hover:no-underline" href="{{ person.redirect_url | default: person.url }}">
                   <div class="p-2 space-y-4 rounded transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-100 duration-300">
                     {% if person.img %}
                       {% if person.img=="placeholder" %}
@@ -155,7 +155,7 @@ lab_types: ["Current","Previous"]
             {% endif %}
 
             <li>
-              <a class="text-indigo-600 hover:no-underline" href="{{ student.redirect_url }}">
+              <a class="text-indigo-600 hover:no-underline" href="{{ (student.redirect_url | default: student.url) | relative_url }}">
                 <div class="p-2 space-y-4 rounded transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-100 duration-300">
                   {% if student.img %}
                     {% if student.img == "placeholder" %}

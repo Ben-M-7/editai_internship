@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /People/
 title: People
 description:
 nav: true
@@ -10,6 +10,7 @@ lab_types: ["Current","Previous"]
 
 <!-- Tailwind CSS -->
 <script src="https://cdn.tailwindcss.com/3.0.0"></script>
+
 
 <!-- Year Selection Dropdown -->
 <div class="text-center my-6">
@@ -21,6 +22,12 @@ lab_types: ["Current","Previous"]
     {% endfor %}
   </select>
 </div>
+
+
+<!-- Announcement -->
+<div class="section-alt">
+  <h2>(2025 profile pictures will be updated shortly)</h2>
+  </div>
 
 <!-- Profiles Container -->
 <div class="profiles-container bg-white">

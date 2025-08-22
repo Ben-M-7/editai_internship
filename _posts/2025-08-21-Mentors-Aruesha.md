@@ -5,7 +5,7 @@ date: 2025-08-21 10:50:00
 description: Meet Aruesha Srivastava — Caltech student, cancer researcher, and co-founder of a diagnostic startup.
 tags: news mentors
 categories: news
-img: "assets/img/aruesha_srivastava_professional.jpg"  
+img: "assets/img/Aruesha_Srivastava_Professional.jpg"  
 ---
 
 #### Background

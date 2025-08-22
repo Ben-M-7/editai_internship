@@ -5,7 +5,7 @@ date: 2025-08-07 10:00:00
 description: Meet Hrishikesh (Rishy) Deosthali — exploring the intersection of computer science and healthcare.
 tags: news mentors
 categories: news
-img: "/editai_internship/assets/img/blank_profile.png"
+img: "assets/img/RishyPic.jpeg"
 ---
 
 #### Background

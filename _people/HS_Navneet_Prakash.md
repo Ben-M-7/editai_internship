@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Navneet Prakash
-img: /assets/img/blank_profile.png
+img: /assets/img/Navneet_Prakash.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Navneet_Prakash.png
 news: false
 social: false
 type: "High School Summer"

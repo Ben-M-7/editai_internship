@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Ashwin Menachery
-img: /assets/img/blank_profile.png
+img: /assets/img/Ashwin_Menachery.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Ashwin_Menachery.jpg
 news: false
 social: false
 type: "High School Summer"

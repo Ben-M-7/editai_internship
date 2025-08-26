@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Nehan Mohamed
-img: /assets/img/blank_profile.png
+img: /assets/img/Nehan_Mohamed.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Nehan_Mohamed.jpg
 news: false
 social: false
 type: "High School Summer"

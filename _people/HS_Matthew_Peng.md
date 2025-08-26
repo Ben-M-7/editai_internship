@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Matthew Peng
-img: /assets/img/blank_profile.png
+img: /assets/img/Matthew_Peng.jpg
 profile:
   align: right
   image: blank_profile.png

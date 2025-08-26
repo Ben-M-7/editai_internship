@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Neeraj Dandamudi
-img: /assets/img/blank_profile.png
+img: /assets/img/Neeraj_Dandamudi.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Neeraj_Dandamudi.jpg
 news: false
 social: false
 type: "High School Summer"

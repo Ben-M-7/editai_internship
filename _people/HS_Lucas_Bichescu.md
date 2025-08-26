@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Lucas Bichescu
-img: /assets/img/blank_profile.png
+img: /assets/img/Lucas_Bichescu.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Lucas_Bichescu.jpeg
 news: false
 social: false
 type: "High School Summer"

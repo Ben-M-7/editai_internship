@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Ali Usman
-img: /assets/img/blank_profile.png
+img: /assets/img/Ali_Usman.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Ali_Usman.png
 news: false
 social: false
 type: "High School Summer"

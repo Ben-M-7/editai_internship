@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Ayaan Shaikh
-img: /assets/img/blank_profile.png
+img: /assets/img/Ayaan_Shaikh_2025.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Ayaan_Shaikh_2025.jpg
 news: false
 social: false
 type: "High School Summer"

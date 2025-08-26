@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Ramini Paruchuri
-img: /assets/img/blank_profile.png
+img: /assets/img/Ramini_Paruchuri.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Ramini_Paruchuri.png
 news: false
 social: false
 type: "High School Summer"

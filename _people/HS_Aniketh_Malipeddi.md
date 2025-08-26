@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Aniketh Malipeddi
-img: /assets/img/blank_profile.png
+img: /assets/img/Aniketh_Malipeddi.jpeg
 profile:
   align: right
   image: blank_profile.png

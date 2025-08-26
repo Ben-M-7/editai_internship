@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Neha Ranjith
-img: /assets/img/blank_profile.png
+img: /assets/img/Neha_Ranjith.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Neha_Ranjith.jpg
 news: false
 social: false
 type: "High School Summer"

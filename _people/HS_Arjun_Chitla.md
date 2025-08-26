@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Arjun Chitla
-img: /assets/img/blank_profile.png
+img: /assets/img/Arjun_Chitla.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Arjun_Chitla.jpg
 news: false
 social: false
 type: "High School Summer"

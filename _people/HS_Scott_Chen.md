@@ -4,7 +4,7 @@ title: Scott Chen
 img: /assets/img/Scott_Chen.jpeg
 profile:
   align: right
-  image: Scott_Chen.jpeg
+  image: Scott_Chen_2025.jpeg
 news: false
 social: false
 type: "High School Summer"

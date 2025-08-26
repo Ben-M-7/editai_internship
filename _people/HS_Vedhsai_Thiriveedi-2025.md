@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Vedhsai Thiriveedi
-img: /assets/img/blank_profile.png
+img: /assets/img/Vedhsai_Thiriveedi.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Vedhsai_Thiriveedi.jpeg
 news: false
 social: false
 type: "High School Summer"

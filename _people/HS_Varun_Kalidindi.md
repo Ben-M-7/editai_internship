@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Varun Kalidindi
-img: /assets/img/blank_profile.png
+img: /assets/img/Varun_Kalidindi.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Varun_Kalidindi.png
 news: false
 social: false
 type: "High School Summer"

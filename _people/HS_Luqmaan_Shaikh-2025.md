@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Luqmaan Shaikh
-img: /assets/img/blank_profile.png
+img: /assets/img/Luqmaan_Shaikhjpg.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Luqmaan_Shaikhjpg.jpg
 news: false
 social: false
 type: "High School Summer"

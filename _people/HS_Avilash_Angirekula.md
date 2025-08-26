@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Avilash Angirekula
-img: /assets/img/blank_profile.png
+img: /assets/img/Avilash_Angirekula.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Avilash_Angirekula.png
 news: false
 social: false
 type: "High School Summer"

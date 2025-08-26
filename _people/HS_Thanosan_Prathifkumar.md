@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Thanosan Prathifkumar
-img: /assets/img/blank_profile.png
+img: /assets/img/Thanosan_Prathifkumar.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Thanosan_Prathifkumar.jpg
 news: false
 social: false
 type: "High School Summer"

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Akash Ragam
-img: /assets/img/blank_profile.png
+img: /assets/img/Akash_Ragam.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Akash_Ragam.jpeg
 news: false
 social: false
 type: "High School Summer"

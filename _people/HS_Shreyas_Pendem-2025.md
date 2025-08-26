@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Shreyas Pendem
-img: /assets/img/blank_profile.png
+img: /assets/img/Shreyas_Pendem_2025.JPG
 profile:
   align: right
   image: blank_profile.png

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Pranay Kancharla
-img: /assets/img/blank_profile.png
+img: /assets/img/Pranay_Kancharla-800.webp
 profile:
   align: right
-  image: blank_profile.png
+  image: Pranay_Kancharla-800.webp
 news: false
 social: false
 type: "High School Summer"

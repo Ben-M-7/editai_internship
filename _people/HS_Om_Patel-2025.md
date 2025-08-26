@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Om Patel
-img: /assets/img/blank_profile.png
+img: /assets/img/Om_Patel.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Om_Patel.jpg
 news: false
 social: false
 type: "High School Summer"

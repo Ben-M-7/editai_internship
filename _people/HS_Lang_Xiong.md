@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Lang Xiong
-img: /assets/img/blank_profile.png
+img: /assets/img/Lang_Xiong.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Lang_Xiong.jpg
 news: false
 social: false
 type: "High School Summer"

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Vivaan Mahajan
-img: /assets/img/blank_profile.png
+img: /assets/img/Vivaan_Mahajan.JPG
 profile:
   align: right
-  image: blank_profile.png
+  image: Vivaan_Mahajan.JPG
 news: false
 social: false
 type: "High School Summer"

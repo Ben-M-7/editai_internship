@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Saatvik Kesarwani
-img: /assets/img/blank_profile.png
+img: /assets/img/Saatvik_Kesarwani.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Saatvik_Kesarwani.jpg
 news: false
 social: false
 type: "High School Summer"

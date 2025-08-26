@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Arav Srivastava
-img: /assets/img/blank_profile.png
+img: /assets/img/Arav_Srivastava_2025.JPG
 profile:
   align: right
   image: blank_profile.png

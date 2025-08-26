@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Edwardia Fosah
-img: /assets/img/blank_profile.png
+img: /assets/img/Edwardia_Fosah.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Edwardia_Fosah.jpg
 news: false
 social: false
 type: "High School Summer"

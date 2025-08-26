@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Madhavendra Thakur
-img: /assets/img/blank_profile.png
+img: /assets/img/Madhavendra_Thakur.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: assets/img/Madhavendra_Thakur.jpg
 news: false
 social: false
 type: "High School Summer"

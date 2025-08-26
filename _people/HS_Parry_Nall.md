@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Parry Nall
-img: /assets/img/blank_profile.png
+img: /assets/img/Parry_Nall.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Parry_Nall.jpeg
 news: false
 social: false
 type: "High School Summer"

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Shritej Mamidala
-img: /assets/img/blank_profile.png
+img: /assets/img/Shritej_Mamidala.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Shritej_Mamidala.jpg
 news: false
 social: false
 type: "High School Summer"

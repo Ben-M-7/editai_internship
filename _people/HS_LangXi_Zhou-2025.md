@@ -1,10 +1,10 @@
 ---
 layout: people
 title: LangXi Zhou
-img: /assets/img/blank_profile.png
+img: /assets/img/LangXi_Zhou.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: LangXi_Zhou.jpg
 news: false
 social: false
 type: "High School Summer"

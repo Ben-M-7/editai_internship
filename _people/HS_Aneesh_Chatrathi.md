@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Aneesh Chatrathi
-img: /assets/img/blank_profile.png
+img: /assets/img/Aneesh_Chatrathi.jpg
 profile:
   align: right
   image: blank_profile.png

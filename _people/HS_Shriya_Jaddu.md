@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Shriya Jaddu
-img: /assets/img/blank_profile.png
+img: /assets/img/Shriya_Jaddu.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Shriya_Jaddu.jpg
 news: false
 social: false
 type: "High School Summer"

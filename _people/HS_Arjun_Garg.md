@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Arjun Garg
-img: /assets/img/blank_profile.png
+img: /assets/img/Arjun_Garg.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Arjun_Garg.jpg
 news: false
 social: false
 type: "High School Summer"

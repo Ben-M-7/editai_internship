@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Ishan Ramrakhiani
-img: /assets/img/blank_profile.png
+img: /assets/img/Ishan_Ramrakhiani.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Ishan_Ramrakhiani.png
 news: false
 social: false
 type: "High School Summer"

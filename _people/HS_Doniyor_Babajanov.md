@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Doniyor Babajanov
-img: /assets/img/blank_profile.png
+img: /assets/img/Doniyor_Babajanov.jpg
 profile:
   align: right
-  image: blank_profile.png
+  image: Doniyor_Babajanov.jpg
 news: false
 social: false
 type: "High School Summer"

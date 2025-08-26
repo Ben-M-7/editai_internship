@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Joshua Liu
-img: /assets/img/blank_profile.png
+img: /assets/img/Joshua_Liu.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Joshua_Liu.png
 news: false
 social: false
 type: "High School Summer"

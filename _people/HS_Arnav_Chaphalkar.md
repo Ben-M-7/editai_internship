@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Arnav Chaphalkar
-img: /assets/img/blank_profile.png
+img: /assets/img/Arnav_Chaphalkar.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Arnav_Chaphalkar.jpeg
 news: false
 social: false
 type: "High School Summer"

@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Elijah Renner
-img: /assets/img/blank_profile.png
+img: /assets/img/Elijah_Renner.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Elijah_Renner.png
 news: false
 social: false
 type: "High School Summer"

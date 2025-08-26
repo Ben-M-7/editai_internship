@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Abhi Kurapati
-img: /assets/img/blank_profile.png
+img: /assets/img/Abhi_Kurapati.jpg
 profile:
   align: right
   image: blank_profile.png

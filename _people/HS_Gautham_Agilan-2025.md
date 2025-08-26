@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Gautham Agilan
-img: /assets/img/blank_profile.png
+img: /assets/img/Gautham_Agilan.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Gautham_Agilan.png
 news: false
 social: false
 type: "High School Summer"

@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Esha Madamalla
-img: /assets/img/blank_profile.png
+img: /assets/img/Esha_Madamalla.png
 profile:
   align: right
   image: blank_profile.png

@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Edward Zhang
-img: /assets/img/Edward_Zhang_thumbnail.jpg
+img: /assets/img/Edward_Zhang.jpg
 profile:
   align: right
   image: Edward_Zhang.jpg

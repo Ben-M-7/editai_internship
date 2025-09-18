@@ -12,7 +12,7 @@ nav: false
 
 <br>
 <p align="center">
-    <img src="../assets/img/edit_ml_website.jpg" width="100%">
+    <img src="../assets/img/presenting.png" width="100%">
 </p>
 <br>
 

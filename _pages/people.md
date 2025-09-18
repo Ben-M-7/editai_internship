@@ -24,10 +24,7 @@ lab_types: ["Current","Previous"]
 </div>
 
 
-<!-- Announcement -->
-<div class="section-alt">
-  <h2>(2025 profile pictures will be updated shortly)</h2>
-  </div>
+<!-- Announcement <div class="section-alt">  <h2>(2025 profile pictures will be updated shortly)</h2> </div> -->
 
 <!-- Profiles Container -->
 <div class="profiles-container bg-white">

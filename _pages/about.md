@@ -66,12 +66,12 @@ social: false  # includes social icons at the bottom of the page
       </figure>
 <br>
   <h4>
-        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Diversifying STEM Workforce:</span>
+        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Providing Experience for the Field:</span>
       </h4>
       <br/>
 
       <p>
-       This program plays a vital role in mitigating bias in AI-augmented clinical decision making by diversifying the STEM workforce. While AI technologies have the potential to revolutionize healthcare by augmenting clinical decision making, bias in AI algorithms can negatively impact historically underserved groups and lead to misdiagnosis. The lack of representation from underrepresented racial and ethnic groups, women, and under-resourced rural and urban school districts in STEM training and career exploration exacerbates this bias. By broadening participation in the development of AI algorithms and diversifying the STEM workforce, we can ensure that AI technologies benefit clinicians and patients from all backgrounds.
+       This program addresses a critical need in biomedical innovation by reducing bias in AI-augmented clinical decision making and strengthening the scientific foundation of cancer-focused AI research. While artificial intelligence holds transformative potential for improving cancer diagnosis and treatment, algorithmic bias can undermine clinical reliability and lead to inaccurate predictions. These challenges often arise from limited validation of AI tools across diverse clinical settings and incomplete integration of biomedical context during model development. EDIT AI equips students to critically evaluate and refine computational methods within authentic cancer research environments, training the next generation of investigators to align emerging technologies with real clinical needs and to ensure that AI enhances, rather than replaces, human expertise in precision medicine.
 
       </p>
     </div>
@@ -81,7 +81,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
   <h4>
-        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Equitable Access to Medical AI Education:</span>
+        <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Equal Access to Medical AI Education:</span>
       </h4>
       <br/>
 

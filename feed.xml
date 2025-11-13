@@ -1,5 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ben-m-7.github.io/editai_internship/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ben-m-7.github.io/editai_internship/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-10-23T08:56:41-04:00</updated><id>https://ben-m-7.github.io/editai_internship/feed.xml</id><title type="html">EDIT AI</title><subtitle>enabling historically underserved communities to direct the future of ai and biomedical studies
-</subtitle><entry><title type="html">EDIT AI student article</title><link href="https://ben-m-7.github.io/editai_internship/blog/2025/Elijah/" rel="alternate" type="text/html" title="EDIT AI student article" /><published>2025-09-17T08:40:00-04:00</published><updated>2025-09-17T08:40:00-04:00</updated><id>https://ben-m-7.github.io/editai_internship/blog/2025/Elijah</id><content type="html" xml:base="https://ben-m-7.github.io/editai_internship/blog/2025/Elijah/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ben-m-7.github.io/editai_internship/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ben-m-7.github.io/editai_internship/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-11-13T07:32:17-05:00</updated><id>https://ben-m-7.github.io/editai_internship/feed.xml</id><title type="html">EDIT AI</title><subtitle>enabling historically underserved communities to direct the future of ai and biomedical studies
+</subtitle><entry><title type="html">EDIT AI Student Highlight — Doniyor Babajanov</title><link href="https://ben-m-7.github.io/editai_internship/blog/2025/student-Doniyor/" rel="alternate" type="text/html" title="EDIT AI Student Highlight — Doniyor Babajanov" /><published>2025-10-30T04:44:00-04:00</published><updated>2025-10-30T04:44:00-04:00</updated><id>https://ben-m-7.github.io/editai_internship/blog/2025/student-Doniyor</id><content type="html" xml:base="https://ben-m-7.github.io/editai_internship/blog/2025/student-Doniyor/"><![CDATA[<h4 id="background">Background</h4>
+
+<p>Doniyor Babajanov, 17, is a student at the <strong>Governor’s School for Science and Technology (New Horizons)</strong> in Virginia. Born in <strong>Uzbekistan</strong>, he moved to the United States and developed a curiosity for how technology can shape the future of medicine and human health.</p>
+
+<p>This summer, Doniyor joined the <strong>EDIT AI program</strong> as part of the <strong>Advanced Research Track (2025)</strong>, where he expanded his understanding of <strong>neural networks</strong> and the broader potentials of artificial intelligence.</p>
+
+<blockquote>
+  <p><em>“Getting exposure to such an important AI model — and understanding how it really works — was eye-opening.”</em></p>
+</blockquote>
+
+<p>He also noted how much he enjoyed the collaborative nature of the program: learning to present research clearly, connecting with others, and seeing peers’ final projects at the program’s closing Pow-Wow.</p>
+
+<blockquote>
+  <p><em>“It was truly moving to see everyone’s truly motivational work. It inspired me to see all the work being done and I look forward to building on those innovations moving into the future.”</em></p>
+</blockquote>
+
+<hr />
+
+<h4 id="research-focus">Research Focus</h4>
+
+<p>During his time in EDIT AI, Doniyor worked on a project applying <strong>YOLOv8</strong> — a state-of-the-art object detection model — to identify and classify <strong>cervical squamous cells</strong> in whole slide pathology images.</p>
+
+<p>The goal: build a tool capable of segmenting slide images into grids, detecting potential squamous cells, and assigning <strong>confidence scores</strong> to indicate how likely each region was to contain meaningful biological features rather than debris or artifacts.</p>
+
+<p>His work established the foundation for future team members to refine and expand the model — a key step toward improving cellular classification and diagnostic automation.</p>
+
+<blockquote>
+  <p><em>“It’s amazing to think that something I helped build could be used as the base for future medical research.”</em></p>
+</blockquote>
+
+<hr />
+
+<h4 id="looking-ahead">Looking Ahead</h4>
+
+<p>Doniyor plans to study <strong>Biomedical Engineering at the University of Virginia</strong>, where he hopes to be part of the <strong>Rodman Scholars Program</strong>. His experiences with EDIT AI and independent research have solidified his goal of bridging <strong>AI</strong>, <strong>hardware</strong>, and <strong>healthcare innovation</strong> in a way that had tangible benefits for users.</p>
+
+<p>Before joining EDIT AI, Doniyor had already been experimenting with biomedical sensing technologies. In a self-driven project, he developed a <strong>wearable device designed to prevent chronic stress</strong> by providing machine-learning predictions of blood pressure using the blood volume data coming from the sensor. This wearable Bluetooth-enabled stress detection system used <strong>PPG (photoplethysmography)</strong> signals. The algorithm measured light absorption in the bloodstream to estimate blood volume and heart rate — without the need for a lab-based setup. He even created his own training data (100+ trials, 80 were good enough to use in the data) in order for the device to reach an acceptable accuracy set by AAMI (American Academy of Medical Instrumentation) standards for wearable blood pressure devices.</p>
+
+<blockquote>
+  <p><em>“I didn’t want to grow plants or do something easy. I wanted to try something hard. Ultimately, this project taught me so many vital skills ranging from signal processing to real-world focused prototyping.”</em></p>
+</blockquote>
+
+<p>Currently, he’s started new research through a <strong>mentorship at NASA Langley</strong>, where he’s helping design a <strong>brainwave-tracking headset</strong> that measures signal frequency bands to study cognitive intensity and mental load.</p>
+
+<hr />
+
+<h4 id="outside-the-lab">Outside the Lab</h4>
+
+<p>Outside of his research, Doniyor enjoys <strong>chess</strong>, <strong>Arduino projects</strong>, and <strong>playing acoustic guitar</strong>. He’s passionate about connecting with people and blending creativity with problem-solving — whether through video editing, photography, engineering, or AI.</p>
+
+<hr />
+
+<blockquote>
+  <p>Doniyor’s journey represents the next wave of student innovators — curious, ambitious, and determined to bring real-world impact to the intersection of technology and health.</p>
+</blockquote>
+
+<p>More Student Highlights coming soon!</p>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="students" /><summary type="html"><![CDATA[Meet Doniyor Babajanov — aspiring biomedical engineer exploring the frontiers of AI and health technology.]]></summary></entry><entry><title type="html">EDIT AI student article</title><link href="https://ben-m-7.github.io/editai_internship/blog/2025/Elijah/" rel="alternate" type="text/html" title="EDIT AI student article" /><published>2025-09-17T08:40:00-04:00</published><updated>2025-09-17T08:40:00-04:00</updated><id>https://ben-m-7.github.io/editai_internship/blog/2025/Elijah</id><content type="html" xml:base="https://ben-m-7.github.io/editai_internship/blog/2025/Elijah/"><![CDATA[<blockquote>
   <p>“If you asked Thetford Academy senior Elijah Renner how he spent his summer vacation, the answer might surprise you. As a student who thrives on academic challenge, summer for Elijah often means taking every opportunity to dive deeply into his areas of interest, especially the intersection of science and emerging technology. Here at TA, Elijah…”</p>
 </blockquote>
 

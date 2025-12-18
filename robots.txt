@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://edit-ai-program.github.io/edit-ai-internship/sitemap.xml
